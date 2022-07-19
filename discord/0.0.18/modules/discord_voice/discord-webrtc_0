@@ -1120,3 +1120,10 @@ Render pre processor: 0
 [2022-07-19 11:43:21.637] [4385] (device_info_linux.cc:45): NumberOfDevices
 [2022-07-19 11:43:24.637] [4385] (device_info_linux.cc:45): NumberOfDevices
 [2022-07-19 11:43:27.640] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:30.643] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:33.647] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:36.648] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:39.651] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:42.654] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:45.657] [4385] (device_info_linux.cc:45): NumberOfDevices
+[2022-07-19 11:43:48.660] [4385] (device_info_linux.cc:45): NumberOfDevices
