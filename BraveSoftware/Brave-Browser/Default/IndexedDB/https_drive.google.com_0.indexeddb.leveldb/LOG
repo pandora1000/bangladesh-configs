@@ -1,0 +1,5 @@
+2022/07/19-09:51:57.738 b5eb Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2022/07/19-09:51:57.743 b5eb Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/19-09:53:26.053 c2d2 Level-0 table #5: started
+2022/07/19-09:53:26.069 c2d2 Level-0 table #5: 4077138 bytes OK
+2022/07/19-09:53:26.072 c2d2 Delete type=0 #3

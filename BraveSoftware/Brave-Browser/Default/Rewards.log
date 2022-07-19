@@ -1,0 +1,41 @@
+[19 Jul 2022, 9:38:50.2 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
+[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
+[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
+[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
+--------------------------------------------------------------------------------
+[19 Jul 2022, 9:51:02.4 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+--------------------------------------------------------------------------------
+[19 Jul 2022, 9:51:07.4 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 9:51:37.6 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 9:54:11.9 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:54:21.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:54:31.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:54:47.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:55:27.9 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:56:07.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:56:47.9 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[19 Jul 2022, 9:57:27.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+--------------------------------------------------------------------------------
+[19 Jul 2022, 10:03:37.0 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[19 Jul 2022, 10:03:37.0 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[19 Jul 2022, 10:03:37.2 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[19 Jul 2022, 10:03:37.2 am:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[19 Jul 2022, 10:03:39.2 am:ERROR:account.cc(265)] Failed to get issuers
+[19 Jul 2022, 10:03:42.3 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 10:03:46.6 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:03:59.8 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:04:05.0 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:04:11.2 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:04:38.7 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 10:06:52.4 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:07:40.6 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:09:33.3 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:40:11.5 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:50:18.4 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 10:50:43.6 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 10:52:16.7 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[19 Jul 2022, 10:59:34.5 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 10:59:34.5 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 11:10:44.4 am:ERROR:publisher.cc(774)] Publisher info not found
+[19 Jul 2022, 11:10:44.4 am:ERROR:publisher.cc(774)] Publisher info not found
