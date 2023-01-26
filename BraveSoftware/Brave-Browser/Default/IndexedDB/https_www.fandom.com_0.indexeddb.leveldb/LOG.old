@@ -1,0 +1,6 @@
+2023/01/22-15:04:38.911 c8c Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/01/22-15:04:38.916 c8c Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/22-15:05:14.106 a60 Level-0 table #5: started
+2023/01/22-15:05:14.108 a60 Level-0 table #5: 4109 bytes OK
+2023/01/22-15:05:14.110 a60 Delete type=0 #3
+2023/01/22-15:05:14.110 a60 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

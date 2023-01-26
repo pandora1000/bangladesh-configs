@@ -1,0 +1,2472 @@
+{
+   "command_toggle_checking": {
+      "description": "Tooltip for toolbar button when checking for updates.",
+      "message": "正在检查词典更新……"
+   },
+   "command_toggle_description": {
+      "description": "Tooltip for toolbar button to turn 10ten reader on or off",
+      "message": "启用或关闭 10ten reader"
+   },
+   "command_toggle_disabled": {
+      "description": "Tooltip for toolbar button when disabled.",
+      "message": "10ten reader 已关闭"
+   },
+   "command_toggle_downloading": {
+      "description": "Tooltip for toolbar button when downloading updates.",
+      "message": "正在下载​$datatype$​更新（​$progress$​%）……",
+      "placeholders": {
+         "datatype": {
+            "content": "$1",
+            "example": "radical data"
+         },
+         "progress": {
+            "content": "$2",
+            "example": "12"
+         }
+      }
+   },
+   "command_toggle_enabled": {
+      "description": "Tooltip for toolbar button when enabled.",
+      "message": "10ten reader 已启用"
+   },
+   "command_toggle_loading": {
+      "description": "Tooltip for toolbar button when loading.",
+      "message": "10ten reader 载入中……"
+   },
+   "command_toggle_update_error": {
+      "description": "Tooltip for toolbar button when we failed to update.",
+      "message": "词典更新失败"
+   },
+   "content_copied_entry": {
+      "description": "Overlay shown after copying an entry to the clipboard.",
+      "message": "已复制词条"
+   },
+   "content_copied_fields": {
+      "description": "Overlay shown after copying entry as a tab-delimited fields to the clipboard.",
+      "message": "已复制以制表符分隔的内容"
+   },
+   "content_copied_word": {
+      "description": "Overlay shown after copying a word to the clipboard.",
+      "message": "已复制词语"
+   },
+   "content_copy_error": {
+      "description": "Message shown in overlay when we couldn't copy to the clipboard",
+      "message": "复制失败"
+   },
+   "content_copy_keys_entry_label": {
+      "description": "Label for key to copy a dictionary entry to the clipboard",
+      "message": "词条"
+   },
+   "content_copy_keys_fields_label": {
+      "description": "Label for key to copy a tab-separated set of fields to the clipboard",
+      "message": "以制表符分隔"
+   },
+   "content_copy_keys_kanji_label": {
+      "description": "Label for key to copy a single kanji character to the clipboard",
+      "message": "汉字"
+   },
+   "content_copy_keys_label": {
+      "description": "Label at start of row describing keys for copying information to the clipboard",
+      "message": "复制："
+   },
+   "content_copy_keys_next_label": {
+      "description": "Label for key to move the copy highlight to the next entry",
+      "message": "下一个"
+   },
+   "content_copy_keys_word_label": {
+      "description": "Label for key to copy a word to the clipboard",
+      "message": "词语"
+   },
+   "content_copy_overlay_cancel_button": {
+      "description": "Label for the cancel button",
+      "message": "キャンセル"
+   },
+   "content_copy_overlay_copy_title": {
+      "description": "Title shown at the top of the copy overlay when we can't find the word to copy.",
+      "message": "复制​"
+   },
+   "content_copy_overlay_copy_title_with_word": {
+      "description": "Title shown at the top of the copy overlay. It includes the matching headwords / kanji",
+      "message": "复制 '​$word$​'​",
+      "placeholders": {
+         "word": {
+            "content": "$1",
+            "example": "選ぶ"
+         }
+      }
+   },
+   "content_copy_overlay_entry_button": {
+      "description": "Label for the button to copy an entire entry",
+      "message": "词条"
+   },
+   "content_copy_overlay_kanji_button": {
+      "description": "Fallback label used for the button to copy a kanji character when we fail to look up the kanji",
+      "message": "汉字"
+   },
+   "content_copy_overlay_tab_separated_button": {
+      "description": "Label for the button to copy an entry with fields separated by tabs",
+      "message": "以制表符分隔"
+   },
+   "content_copy_overlay_word_button": {
+      "description": "Fallback label used for the button to copy a word when we fail to look up the word",
+      "message": "词语"
+   },
+   "content_database_updating": {
+      "description": "Status bar message shown while the dictionary is being updated and only a snapshot can be shown.",
+      "message": "由于词典数据正在更新，当前显示的数据不完整。"
+   },
+   "content_kanji_base_radical": {
+      "description": "The string used to describe the base radical",
+      "message": "从​$char$​（​$readings$​）",
+      "placeholders": {
+         "char": {
+            "content": "$1",
+            "example": "⾡"
+         },
+         "readings": {
+            "content": "$2",
+            "example": "しんにょう、しんにゅう"
+         }
+      }
+   },
+   "content_kanji_components_label": {
+      "description": "The label to give to kanji components when copying a kanji entry",
+      "message": "部件"
+   },
+   "content_kanji_frequency_label": {
+      "description": "The prefix to the xxx / 2,500 frequency information",
+      "message": "字频"
+   },
+   "content_kanji_grade_general_use": {
+      "description": "Label for kanji marked as general use",
+      "message": "常用汉字"
+   },
+   "content_kanji_grade_label": {
+      "description": "The label for kanji in grades 1 - 6",
+      "message": "$grade$​级",
+      "placeholders": {
+         "grade": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "content_kanji_grade_name_use": {
+      "description": "Label for kanji marked as name use",
+      "message": "人名用字"
+   },
+   "content_kanji_kentei_level": {
+      "message": "$level$​级",
+      "placeholders": {
+         "level": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "content_kanji_kentei_level_pre": {
+      "message": "准​$level$​级",
+      "placeholders": {
+         "level": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "content_kanji_meta_kokuji": {
+      "description": "Meta label for kokuji (kanji originated in Japan)",
+      "message": "国字"
+   },
+   "content_kanji_meta_phantom_kanji": {
+      "description": "Meta label for phantom kanji/ghost characters",
+      "message": "幽灵汉字"
+   },
+   "content_kanji_nanori_label": {
+      "description": "Label given to name readings",
+      "message": "人名读法"
+   },
+   "content_kanji_radical_label": {
+      "description": "The title given to the box showing radical information",
+      "message": "部首"
+   },
+   "content_kanji_strokes_label": {
+      "description": "The description of the number of strokes",
+      "message": "$strokes$ 画",
+      "placeholders": {
+         "strokes": {
+            "content": "$1",
+            "example": "7"
+         }
+      }
+   },
+   "content_kanji_strokes_label_1": {
+      "description": "The description of the number of strokes when there is exactly 1 stroke",
+      "message": "1画"
+   },
+   "content_mouse_onboarding_details_link": {
+      "description": "Link text to page with more details",
+      "message": "细节……"
+   },
+   "content_mouse_onboarding_disable_button": {
+      "description": "Label for the button to turn off the mouse interaction",
+      "message": "禁用"
+   },
+   "content_mouse_onboarding_explanation": {
+      "description": "The text explaining that it is now possibly to mouse over th e popup",
+      "message": "现在可以在此窗口上进行鼠标操作。"
+   },
+   "content_mouse_onboarding_new": {
+      "description": "The prefix announcing the new feature",
+      "message": "新功能！"
+   },
+   "content_mouse_onboarding_ok_button": {
+      "description": "Label for the button to dismiss the onboarding prompt",
+      "message": "OK"
+   },
+   "content_names_age": {
+      "message": "$years$岁",
+      "placeholders": {
+         "years": {
+            "content": "$1",
+            "example": "73"
+         }
+      }
+   },
+   "content_names_age_approx": {
+      "message": "约$years$岁",
+      "placeholders": {
+         "years": {
+            "content": "$1",
+            "example": "73"
+         }
+      }
+   },
+   "content_names_tag_char": {
+      "message": "角色"
+   },
+   "content_names_tag_company": {
+      "message": "公司"
+   },
+   "content_names_tag_creat": {
+      "message": "生物"
+   },
+   "content_names_tag_dei": {
+      "message": "神"
+   },
+   "content_names_tag_doc": {
+      "message": "文书"
+   },
+   "content_names_tag_ev": {
+      "message": "事件"
+   },
+   "content_names_tag_fem": {
+      "message": "女性"
+   },
+   "content_names_tag_fict": {
+      "message": "虚构作品"
+   },
+   "content_names_tag_given": {
+      "message": "名字"
+   },
+   "content_names_tag_group": {
+      "message": "团体"
+   },
+   "content_names_tag_leg": {
+      "message": "传说"
+   },
+   "content_names_tag_masc": {
+      "message": "男性"
+   },
+   "content_names_tag_myth": {
+      "message": "神话"
+   },
+   "content_names_tag_obj": {
+      "message": "物品"
+   },
+   "content_names_tag_org": {
+      "message": "组织"
+   },
+   "content_names_tag_oth": {
+      "message": "其他"
+   },
+   "content_names_tag_person": {
+      "message": "全名"
+   },
+   "content_names_tag_place": {
+      "message": "地名"
+   },
+   "content_names_tag_product": {
+      "message": "商品"
+   },
+   "content_names_tag_relig": {
+      "message": "宗教"
+   },
+   "content_names_tag_serv": {
+      "message": "服务"
+   },
+   "content_names_tag_ship": {
+      "message": "船"
+   },
+   "content_names_tag_station": {
+      "message": "车站"
+   },
+   "content_names_tag_surname": {
+      "message": "姓氏"
+   },
+   "content_names_tag_unclass": {
+      "message": "人物"
+   },
+   "content_names_tag_work": {
+      "message": "作品"
+   },
+   "currency_data_updated_label": {
+      "description": "Caption added to popup explaining when the currency data was last refreshed",
+      "message": "$updated$ 更新",
+      "placeholders": {
+         "updated": {
+            "content": "$1",
+            "example": "Sep 16, 2021, 10:03 AM"
+         }
+      }
+   },
+   "deinflect_adv": {
+      "message": "副词化"
+   },
+   "deinflect_alternate": {
+      "description": "Separator to use between de-inflection reasons when there are multiple possibilities",
+      "message": "或"
+   },
+   "deinflect_ba": {
+      "message": "-ば"
+   },
+   "deinflect_causative": {
+      "message": "使役形"
+   },
+   "deinflect_causative_passive": {
+      "message": "使役被动形"
+   },
+   "deinflect_chau": {
+      "message": "-ちゃう"
+   },
+   "deinflect_continuous": {
+      "message": "现在进行形"
+   },
+   "deinflect_imperative": {
+      "message": "命令形"
+   },
+   "deinflect_imperative_negative": {
+      "message": "否定命令形"
+   },
+   "deinflect_ki": {
+      "message": "连体形"
+   },
+   "deinflect_masu_stem": {
+      "message": "连用形"
+   },
+   "deinflect_nasai": {
+      "message": "-なさい"
+   },
+   "deinflect_negative": {
+      "message": "否定形"
+   },
+   "deinflect_negative_te": {
+      "message": "否定形 -て "
+   },
+   "deinflect_noun": {
+      "message": "名词化"
+   },
+   "deinflect_passive": {
+      "message": "被动形或敬语"
+   },
+   "deinflect_past": {
+      "message": "过去形"
+   },
+   "deinflect_polite": {
+      "message": "敬语"
+   },
+   "deinflect_polite_negative": {
+      "message": "敬语 否定形"
+   },
+   "deinflect_polite_past": {
+      "message": "敬语 过去形"
+   },
+   "deinflect_polite_past_negative": {
+      "message": "敬语 过去形 否定形"
+   },
+   "deinflect_polite_volitional": {
+      "message": "敬语 意志形"
+   },
+   "deinflect_potential": {
+      "message": "可能形"
+   },
+   "deinflect_potential_or_passive": {
+      "message": "可能或被动或敬语的"
+   },
+   "deinflect_sou": {
+      "message": "-そう"
+   },
+   "deinflect_sugiru": {
+      "message": "-過ぎる"
+   },
+   "deinflect_suru_noun": {
+      "message": "-する"
+   },
+   "deinflect_tai": {
+      "message": "-たい"
+   },
+   "deinflect_tara": {
+      "message": "-たら"
+   },
+   "deinflect_tari": {
+      "message": "-たり"
+   },
+   "deinflect_te": {
+      "message": "-て"
+   },
+   "deinflect_toku": {
+      "message": "-て おく"
+   },
+   "deinflect_volitional": {
+      "message": "意志形"
+   },
+   "deinflect_zaru_wo_enai": {
+      "message": "'不得不～'"
+   },
+   "deinflect_zu": {
+      "message": "ず形"
+   },
+   "dial_label_9s": {
+      "description": "Label used to describe senses whose dialect is '9s' (Kyushu dialect)",
+      "message": "九州方言"
+   },
+   "dial_label_bra": {
+      "description": "Label used to describe senses whose dialect is 'bra' (Brazilian dialect)",
+      "message": "巴西日语"
+   },
+   "dial_label_ho": {
+      "description": "Label used to describe senses whose dialect is 'ho' (Hokkaido dialect)",
+      "message": "北海道方言"
+   },
+   "dial_label_ks": {
+      "description": "Label used to describe senses whose dialect is 'ks' (Kansai dialect)",
+      "message": "关西方言"
+   },
+   "dial_label_kt": {
+      "description": "Label used to describe senses whose dialect is 'kt' (Kanto dialect)",
+      "message": "关东方言"
+   },
+   "dial_label_ky": {
+      "description": "Label used to describe senses whose dialect is 'ky' (Kyoto dialect)",
+      "message": "京都方言"
+   },
+   "dial_label_na": {
+      "description": "Label used to describe senses whose dialect is 'na' (Nagano dialect)",
+      "message": "长野方言"
+   },
+   "dial_label_ok": {
+      "description": "Label used to describe senses whose dialect is 'ok' (Ryuukyuu dialect)",
+      "message": "冲绳方言"
+   },
+   "dial_label_os": {
+      "description": "Label used to describe senses whose dialect is 'os' (Osaka dialect)",
+      "message": "大阪方言"
+   },
+   "dial_label_th": {
+      "description": "Label used to describe senses whose dialect is 'th' (Tohoku dialect)",
+      "message": "东北方言"
+   },
+   "dial_label_ts": {
+      "description": "Label used to describe senses whose dialect is 'ts' (Tosa dialect)",
+      "message": "土佐方言"
+   },
+   "dial_label_tsug": {
+      "description": "Label used to describe senses whose dialect is 'tsug' (Tsugaru dialect)",
+      "message": "津轻方言"
+   },
+   "error_command_could_not_parse": {
+      "message": "无法解析命令 $command$",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "Ctrl+T "
+         }
+      }
+   },
+   "error_command_disallowed_modifier_key": {
+      "message": "修饰键 '​$modifier$​' 不能使用",
+      "placeholders": {
+         "modifier": {
+            "content": "$1",
+            "example": "Meta"
+         }
+      }
+   },
+   "error_command_has_no_key": {
+      "message": "必须指定按键"
+   },
+   "error_command_is_missing_modifier_key": {
+      "message": "必须使用一个修饰键，除非使用功能键（F1-F12）。"
+   },
+   "error_command_key_is_not_allowed": {
+      "message": "按键 '​$key$​' 不可用",
+      "placeholders": {
+         "key": {
+            "content": "$1",
+            "example": "Enter"
+         }
+      }
+   },
+   "error_command_media_key_with_modifier_key": {
+      "message": "不能同时使用修饰键和多媒体按键"
+   },
+   "error_command_too_many_modifiers": {
+      "message": "过多的修饰键"
+   },
+   "error_loading_dictionary": {
+      "description": "Tooltip shown when the dictionary fails to load",
+      "message": "词典加载失败，请重试。"
+   },
+   "extension_description": {
+      "description": "Description of the what the extension does.",
+      "message": "日语划词翻译。"
+   },
+   "field_label_Buddh": {
+      "description": "Label applied to senses with the 'Buddh' field",
+      "message": "佛教"
+   },
+   "field_label_Christn": {
+      "description": "Label applied to senses with the 'Christn' field",
+      "message": "基督教"
+   },
+   "field_label_MA": {
+      "description": "Label applied to senses with the 'MA' field",
+      "message": "武术"
+   },
+   "field_label_Shinto": {
+      "description": "Label applied to senses with the 'Shinto' field",
+      "message": "神道"
+   },
+   "field_label_agric": {
+      "description": "Label applied to senses with the 'agric' field",
+      "message": "农业"
+   },
+   "field_label_anat": {
+      "description": "Label applied to senses with the 'anat' field",
+      "message": "解剖学"
+   },
+   "field_label_archeol": {
+      "description": "Label applied to senses with the 'archeol' field",
+      "message": "考古学"
+   },
+   "field_label_archit": {
+      "description": "Label applied to senses with the 'archit' field",
+      "message": "建筑"
+   },
+   "field_label_art": {
+      "description": "Label applied to senses with the 'art' field",
+      "message": "美术"
+   },
+   "field_label_astron": {
+      "description": "Label applied to senses with the 'astron' field",
+      "message": "天文"
+   },
+   "field_label_audvid": {
+      "description": "Label applied to senses with the 'audvid' field",
+      "message": "音视频"
+   },
+   "field_label_aviat": {
+      "description": "Label applied to senses with the 'aviat' field",
+      "message": "航空"
+   },
+   "field_label_baseb": {
+      "description": "Label applied to senses with the 'baseb' field",
+      "message": "棒球"
+   },
+   "field_label_biochem": {
+      "description": "Label applied to senses with the 'biochem' field",
+      "message": "生化"
+   },
+   "field_label_biol": {
+      "description": "Label applied to senses with the 'biol' field",
+      "message": "生物学"
+   },
+   "field_label_bot": {
+      "description": "Label applied to senses with the 'bot' field",
+      "message": "植物学"
+   },
+   "field_label_bus": {
+      "description": "Label applied to senses with the 'bus' field",
+      "message": "商务"
+   },
+   "field_label_cards": {
+      "description": "Label applied to senses with the 'cards' field",
+      "message": "纸牌"
+   },
+   "field_label_chem": {
+      "description": "Label applied to senses with the 'chem' field",
+      "message": "化学"
+   },
+   "field_label_cloth": {
+      "description": "Label applied to senses with the 'cloth' field",
+      "message": "衣服"
+   },
+   "field_label_comp": {
+      "description": "Label applied to senses with the 'comp' field",
+      "message": "计算机"
+   },
+   "field_label_cryst": {
+      "description": "Label applied to senses with the 'cryst' field",
+      "message": "晶体学"
+   },
+   "field_label_dent": {
+      "description": "Label applied to senses with the 'dent' field",
+      "message": "牙科"
+   },
+   "field_label_ecol": {
+      "description": "Label applied to senses with the 'ecol' field",
+      "message": "生态学"
+   },
+   "field_label_econ": {
+      "description": "Label applied to senses with the 'econ' field",
+      "message": "经济"
+   },
+   "field_label_elec": {
+      "description": "Label applied to senses with the 'elec' field",
+      "message": "电气"
+   },
+   "field_label_electr": {
+      "description": "Label applied to senses with the 'electr' field",
+      "message": "电子"
+   },
+   "field_label_embryo": {
+      "description": "Label applied to senses with the 'embryo' field",
+      "message": "胚胎学"
+   },
+   "field_label_engr": {
+      "description": "Label applied to senses with the 'engr' field",
+      "message": "工程学"
+   },
+   "field_label_ent": {
+      "description": "Label applied to senses with the 'ent' field",
+      "message": "昆虫学"
+   },
+   "field_label_film": {
+      "description": "Label applied to senses with the 'film' field",
+      "message": "电影"
+   },
+   "field_label_finc": {
+      "description": "Label applied to senses with the 'finc' field",
+      "message": "金融"
+   },
+   "field_label_fish": {
+      "description": "Label applied to senses with the 'fish' field",
+      "message": "钓鱼"
+   },
+   "field_label_food": {
+      "description": "Label applied to senses with the 'food' field",
+      "message": "食品"
+   },
+   "field_label_gardn": {
+      "description": "Label applied to senses with the 'gardn' field",
+      "message": "园艺"
+   },
+   "field_label_genet": {
+      "description": "Label applied to senses with the 'genet' field",
+      "message": "遗传学"
+   },
+   "field_label_geogr": {
+      "description": "Label applied to senses with the 'geogr' field",
+      "message": "地理学"
+   },
+   "field_label_geol": {
+      "description": "Label applied to senses with the 'geol' field",
+      "message": "地质学"
+   },
+   "field_label_geom": {
+      "description": "Label applied to senses with the 'geom' field",
+      "message": "几何学"
+   },
+   "field_label_go": {
+      "description": "Label applied to senses with the 'go' field",
+      "message": "围棋"
+   },
+   "field_label_golf": {
+      "description": "Label applied to senses with the 'golf' field",
+      "message": "高尔夫"
+   },
+   "field_label_gramm": {
+      "description": "Label applied to senses with the 'gramm' field",
+      "message": "语法"
+   },
+   "field_label_grmyth": {
+      "description": "Label applied to senses with the 'grmyth' field",
+      "message": "希腊神话"
+   },
+   "field_label_hanaf": {
+      "description": "Label applied to senses with the 'hanaf' field",
+      "message": "花札"
+   },
+   "field_label_horse": {
+      "description": "Label applied to senses with the 'horse' field",
+      "message": "赛马"
+   },
+   "field_label_kabuki": {
+      "description": "Label applied to senses with the 'kabuki' field",
+      "message": "歌舞伎"
+   },
+   "field_label_law": {
+      "description": "Label applied to senses with the 'law' field",
+      "message": "法学"
+   },
+   "field_label_ling": {
+      "description": "Label applied to senses with the 'ling' field",
+      "message": "语言学"
+   },
+   "field_label_logic": {
+      "description": "Label applied to senses with the 'logic' field",
+      "message": "逻辑"
+   },
+   "field_label_mahj": {
+      "description": "Label applied to senses with the 'mahj' field",
+      "message": "麻将"
+   },
+   "field_label_manga": {
+      "description": "Label applied to senses with the 'manga' field",
+      "message": "漫画"
+   },
+   "field_label_math": {
+      "description": "Label applied to senses with the 'math' field",
+      "message": "数学"
+   },
+   "field_label_mech": {
+      "description": "Label applied to senses with the 'mech' field",
+      "message": "机械工程"
+   },
+   "field_label_med": {
+      "description": "Label applied to senses with the 'med' field",
+      "message": "医学"
+   },
+   "field_label_met": {
+      "description": "Label applied to senses with the 'met' field",
+      "message": "气象"
+   },
+   "field_label_mil": {
+      "description": "Label applied to senses with the 'mil' field",
+      "message": "军事"
+   },
+   "field_label_mining": {
+      "description": "Label applied to senses with the 'mining' field",
+      "message": "矿业"
+   },
+   "field_label_music": {
+      "description": "Label applied to senses with the 'music' field",
+      "message": "音乐"
+   },
+   "field_label_noh": {
+      "description": "Label applied to senses with the 'noh' field",
+      "message": "能剧"
+   },
+   "field_label_ornith": {
+      "description": "Label applied to senses with the 'ornith' field",
+      "message": "鸟类学"
+   },
+   "field_label_paleo": {
+      "description": "Label applied to senses with the 'paleo' field",
+      "message": "古生物学"
+   },
+   "field_label_pathol": {
+      "description": "Label applied to senses with the 'pathol' field",
+      "message": "病理学"
+   },
+   "field_label_pharm": {
+      "description": "Label applied to senses with the 'pharm' field",
+      "message": "药学"
+   },
+   "field_label_phil": {
+      "description": "Label applied to senses with the 'phil' field",
+      "message": "哲学"
+   },
+   "field_label_photo": {
+      "description": "Label applied to senses with the 'photo' field",
+      "message": "摄影"
+   },
+   "field_label_physics": {
+      "description": "Label applied to senses with the 'physics' field",
+      "message": "物理学"
+   },
+   "field_label_physiol": {
+      "description": "Label applied to senses with the 'physiol' field",
+      "message": "生理学"
+   },
+   "field_label_politics": {
+      "description": "Label applied to senses with the 'politics' field",
+      "message": "政治"
+   },
+   "field_label_print": {
+      "description": "Label applied to senses with the 'print' field",
+      "message": "印刷"
+   },
+   "field_label_psy": {
+      "description": "Label applied to senses with the 'psy' field",
+      "message": "精神科"
+   },
+   "field_label_psyanal": {
+      "description": "Label applied to senses with the 'psyanal' field",
+      "message": "精神分析"
+   },
+   "field_label_psych": {
+      "description": "Label applied to senses with the 'psych' field",
+      "message": "心理学"
+   },
+   "field_label_rail": {
+      "description": "Label applied to senses with the 'rail' field",
+      "message": "铁路"
+   },
+   "field_label_rommyth": {
+      "description": "Label applied to senses with the 'rommyth' field",
+      "message": "罗马神话"
+   },
+   "field_label_shogi": {
+      "description": "Label applied to senses with the 'shogi' field",
+      "message": "将棋"
+   },
+   "field_label_ski": {
+      "description": "Label applied to senses with the 'ski' field",
+      "message": "滑雪"
+   },
+   "field_label_sports": {
+      "description": "Label applied to senses with the 'sports' field",
+      "message": "体育"
+   },
+   "field_label_stat": {
+      "description": "Label applied to senses with the 'stat' field",
+      "message": "统计学"
+   },
+   "field_label_stockm": {
+      "description": "Label applied to senses with the 'stockm' field",
+      "message": "股市"
+   },
+   "field_label_sumo": {
+      "description": "Label applied to senses with the 'sumo' field",
+      "message": "相扑"
+   },
+   "field_label_telec": {
+      "description": "Label applied to senses with the 'telec' field",
+      "message": "通信"
+   },
+   "field_label_tradem": {
+      "description": "Label applied to senses with the 'tradem' field",
+      "message": "商标"
+   },
+   "field_label_tv": {
+      "description": "Label applied to senses with the 'tv' field",
+      "message": "电视机"
+   },
+   "field_label_vidg": {
+      "description": "Label applied to senses with the 'vidg' field",
+      "message": "游戏"
+   },
+   "field_label_zool": {
+      "description": "Label applied to senses with the 'zool' field",
+      "message": "动物学"
+   },
+   "gloss_type_label_expl": {
+      "description": "Short annotation used to represent the expl (explanation) gloss type",
+      "message": "说明"
+   },
+   "gloss_type_label_fig": {
+      "description": "Short annotation used to represent the fig (figurative) gloss type",
+      "message": "比喻"
+   },
+   "gloss_type_label_lit": {
+      "description": "Short annotation used to represent the lit (literally) gloss type",
+      "message": "直译"
+   },
+   "gloss_type_short_expl": {
+      "description": "Short annotation used to represent the expl (explanation) gloss type when copying entries to the clipboard",
+      "message": "说明"
+   },
+   "gloss_type_short_fig": {
+      "description": "Short annotation used to represent the expl (explanation) gloss type when copying entries to the clipboard",
+      "message": "比喻"
+   },
+   "gloss_type_short_lit": {
+      "description": "Short annotation used to represent the expl (explanation) gloss type when copying entries to the clipboard",
+      "message": "直译"
+   },
+   "head_info_label_ateji": {
+      "description": "Short annotation given to kanji headwords that are ateji (kanji chosen to represent sounds)",
+      "message": "借字"
+   },
+   "head_info_label_gikun": {
+      "description": "Short annotation given to kana headwords with gikun (meaning as reading) or jukujikun (special kanji reading)",
+      "message": "义训"
+   },
+   "head_info_label_ikana": {
+      "description": "Short annotation given to (mostly?) kana headwords that have rare use of kana",
+      "message": "非标"
+   },
+   "head_info_label_ikanji": {
+      "description": "Short annotation given to kanji headwords that have rare use of kanji",
+      "message": "非标"
+   },
+   "head_info_label_io": {
+      "description": "Short annotation given to kanji headwords that have rare use of okurigana",
+      "message": "非标"
+   },
+   "head_info_label_okana": {
+      "description": "Short annotation given to kana headwords that use out-dated kana",
+      "message": "古"
+   },
+   "head_info_label_okanji": {
+      "description": "Short annotation given to kanji headwords that use out-dated kanji",
+      "message": "古"
+   },
+   "head_info_label_rkanji": {
+      "description": "Short annotation given to kanji headwords that use rarely-used kanji forms",
+      "message": "少用汉字"
+   },
+   "head_info_label_ukanji": {
+      "description": "Short annotation given to kana headwords that are normally written in kanji alone",
+      "message": "多用汉字"
+   },
+   "lang_label_af": {
+      "description": "Label used to describe senses whose source language is 'af' (Afrikaans)",
+      "message": "南非语"
+   },
+   "lang_label_ain": {
+      "description": "Label used to describe senses whose source language is 'ain' (Ainu)",
+      "message": "阿伊努语"
+   },
+   "lang_label_alg": {
+      "description": "Label used to describe senses whose source language is 'alg' (Algonquian)",
+      "message": "阿尔冈昆语"
+   },
+   "lang_label_am": {
+      "description": "Label used to describe senses whose source language is 'am' (Amharic)",
+      "message": "阿姆哈拉语"
+   },
+   "lang_label_ar": {
+      "description": "Label used to describe senses whose source language is 'ar' (Arabic)",
+      "message": "阿拉伯语"
+   },
+   "lang_label_arn": {
+      "description": "Label used to describe senses whose source language is 'arn' (Mapuche)",
+      "message": "马普切语"
+   },
+   "lang_label_bg": {
+      "description": "Label used to describe senses whose source language is 'bg' (Bulgarian)",
+      "message": "保加利亚语"
+   },
+   "lang_label_bnt": {
+      "description": "Label used to describe senses whose source language is 'bnt' (Bantu)",
+      "message": "班图语群"
+   },
+   "lang_label_bo": {
+      "description": "Label used to describe senses whose source language is 'bo' (Tibetan)",
+      "message": "藏语"
+   },
+   "lang_label_br": {
+      "description": "Label used to describe senses whose source language is 'br' (Breton)",
+      "message": "布列塔尼语"
+   },
+   "lang_label_chn": {
+      "description": "Label used to describe senses whose source language is 'chn' (Chinook)",
+      "message": "奇努克语"
+   },
+   "lang_label_cs": {
+      "description": "Label used to describe senses whose source language is 'cs' (Czech)",
+      "message": "捷克语"
+   },
+   "lang_label_da": {
+      "description": "Label used to describe senses whose source language is 'da' (Danish)",
+      "message": "丹麦语"
+   },
+   "lang_label_de": {
+      "description": "Label used to describe senses whose source language is 'de' (German)",
+      "message": "德语"
+   },
+   "lang_label_el": {
+      "description": "Label used to describe senses whose source language is 'el' (Greek)",
+      "message": "希腊语"
+   },
+   "lang_label_en": {
+      "description": "Label used to describe senses whose source language is 'en' (English)",
+      "message": "英语"
+   },
+   "lang_label_eo": {
+      "description": "Label used to describe senses whose source language is 'eo' (Esperanto)",
+      "message": "世界语"
+   },
+   "lang_label_es": {
+      "description": "Label used to describe senses whose source language is 'es' (Spanish)",
+      "message": "西班牙语"
+   },
+   "lang_label_et": {
+      "description": "Label used to describe senses whose source language is 'et' (Estonian)",
+      "message": "爱沙尼亚语"
+   },
+   "lang_label_fa": {
+      "description": "Label used to describe senses whose source language is 'fa' (Persian)",
+      "message": "波斯语"
+   },
+   "lang_label_fi": {
+      "description": "Label used to describe senses whose source language is 'fi' (Finnish)",
+      "message": "芬兰语"
+   },
+   "lang_label_fil": {
+      "description": "Label used to describe senses whose source language is 'fil' (Filipino)",
+      "message": "菲律宾语"
+   },
+   "lang_label_fr": {
+      "description": "Label used to describe senses whose source language is 'fr' (French)",
+      "message": "法语"
+   },
+   "lang_label_gl": {
+      "description": "Label used to describe senses whose source language is 'gl' (Galician)",
+      "message": "加利西亚语"
+   },
+   "lang_label_grc": {
+      "description": "Label used to describe senses whose source language is 'grc' (Ancient Greek)",
+      "message": "古希腊语"
+   },
+   "lang_label_haw": {
+      "description": "Label used to describe senses whose source language is 'haw' (Hawaiian)",
+      "message": "夏威夷语"
+   },
+   "lang_label_he": {
+      "description": "Label used to describe senses whose source language is 'he' (Hebrew)",
+      "message": "希伯来语"
+   },
+   "lang_label_hi": {
+      "description": "Label used to describe senses whose source language is 'hi' (Hindi)",
+      "message": "印地语"
+   },
+   "lang_label_hr": {
+      "description": "Label used to describe senses whose source language is 'hr' (Croatian)",
+      "message": "克罗地亚语"
+   },
+   "lang_label_hu": {
+      "description": "Label used to describe senses whose source language is 'hu' (Hungarian)",
+      "message": "匈牙利语"
+   },
+   "lang_label_id": {
+      "description": "Label used to describe senses whose source language is 'id' (Indonesian)",
+      "message": "印尼语"
+   },
+   "lang_label_is": {
+      "description": "Label used to describe senses whose source language is 'is' (Icelandic)",
+      "message": "冰岛语"
+   },
+   "lang_label_it": {
+      "description": "Label used to describe senses whose source language is 'it' (Italian)",
+      "message": "意大利语"
+   },
+   "lang_label_ka": {
+      "description": "Label used to describe senses whose source language is 'ka' (Georgian)",
+      "message": "格鲁吉亚语"
+   },
+   "lang_label_km": {
+      "description": "Label used to describe senses whose source language is 'km' (Khmer)",
+      "message": "高棉语"
+   },
+   "lang_label_ko": {
+      "description": "Label used to describe senses whose source language is 'ko' (Korean)",
+      "message": "韩语"
+   },
+   "lang_label_ku": {
+      "description": "Label used to describe senses whose source language is 'ku' (Kurdish)",
+      "message": "库尔德语"
+   },
+   "lang_label_la": {
+      "description": "Label used to describe senses whose source language is 'la' (Latin)",
+      "message": "拉丁语"
+   },
+   "lang_label_mi": {
+      "description": "Label used to describe senses whose source language is 'mi' (Maori)",
+      "message": "毛利语"
+   },
+   "lang_label_ml": {
+      "description": "Label used to describe senses whose source language is 'ml' (Malayalam)",
+      "message": "马拉雅拉姆语"
+   },
+   "lang_label_mn": {
+      "description": "Label used to describe senses whose source language is 'mn' (Mongolian)",
+      "message": "蒙古语"
+   },
+   "lang_label_mnc": {
+      "description": "Label used to describe senses whose source language is 'mnc' (Manchu)",
+      "message": "满语"
+   },
+   "lang_label_mo": {
+      "description": "Label used to describe senses whose source language is 'mo' (Moldavian)",
+      "message": "摩尔多瓦语"
+   },
+   "lang_label_ms": {
+      "description": "Label used to describe senses whose source language is 'ms' (Malay)",
+      "message": "马来语"
+   },
+   "lang_label_my": {
+      "description": "Label used to describe senses whose source language is 'my' (Burmese)",
+      "message": "缅甸语"
+   },
+   "lang_label_nl": {
+      "description": "Label used to describe senses whose source language is 'nl' (Dutch)",
+      "message": "荷兰语"
+   },
+   "lang_label_no": {
+      "description": "Label used to describe senses whose source language is 'no' (Norwegian)",
+      "message": "挪威语"
+   },
+   "lang_label_pl": {
+      "description": "Label used to describe senses whose source language is 'pl' (Polish)",
+      "message": "波兰语"
+   },
+   "lang_label_pt": {
+      "description": "Label used to describe senses whose source language is 'pt' (Portuguese)",
+      "message": "葡萄牙语"
+   },
+   "lang_label_ro": {
+      "description": "Label used to describe senses whose source language is 'ro' (Romanian)",
+      "message": "罗马尼亚语"
+   },
+   "lang_label_ru": {
+      "description": "Label used to describe senses whose source language is 'ru' (Russian)",
+      "message": "俄语"
+   },
+   "lang_label_sa": {
+      "description": "Label used to describe senses whose source language is 'sa' (Sanskrit)",
+      "message": "梵语"
+   },
+   "lang_label_sk": {
+      "description": "Label used to describe senses whose source language is 'sk' (Slovak)",
+      "message": "斯洛伐克语"
+   },
+   "lang_label_sl": {
+      "description": "Label used to describe senses whose source language is 'sl' (Slovenian)",
+      "message": "斯洛文尼亚语"
+   },
+   "lang_label_so": {
+      "description": "Label used to describe senses whose source language is 'so' (Somali)",
+      "message": "索马里语"
+   },
+   "lang_label_sv": {
+      "description": "Label used to describe senses whose source language is 'sv' (Swedish)",
+      "message": "瑞典语"
+   },
+   "lang_label_sw": {
+      "description": "Label used to describe senses whose source language is 'sw' (Swahili)",
+      "message": "斯瓦希里语"
+   },
+   "lang_label_ta": {
+      "description": "Label used to describe senses whose source language is 'ta' (Tamil)",
+      "message": "泰米尔语"
+   },
+   "lang_label_th": {
+      "description": "Label used to describe senses whose source language is 'th' (Thai)",
+      "message": "泰语"
+   },
+   "lang_label_tl": {
+      "description": "Label used to describe senses whose source language is 'tl' (Tagalog)",
+      "message": "他加祿語"
+   },
+   "lang_label_tr": {
+      "description": "Label used to describe senses whose source language is 'tr' (Turkish)",
+      "message": "土耳其语"
+   },
+   "lang_label_ty": {
+      "description": "Label used to describe senses whose source language is 'ty' (Tahitian)",
+      "message": "塔希提语"
+   },
+   "lang_label_uk": {
+      "description": "Label used to describe senses whose source language is 'uk' (Ukrainian)",
+      "message": "乌克兰语"
+   },
+   "lang_label_ur": {
+      "description": "Label used to describe senses whose source language is 'ur' (Urdu)",
+      "message": "乌尔都语"
+   },
+   "lang_label_vi": {
+      "description": "Label used to describe senses whose source language is 'vi' (Vietnamese)",
+      "message": "越南语"
+   },
+   "lang_label_wasei": {
+      "description": "Label used to describe senses that are Japanese constructions (of English, presumably, as opposed to wasei kango)",
+      "message": "和制英语"
+   },
+   "lang_label_yi": {
+      "description": "Label used to describe senses whose source language is 'yi' (Yiddish)",
+      "message": "意第绪语"
+   },
+   "lang_label_zh": {
+      "description": "Label used to describe senses whose source language is 'zh' (Chinese)",
+      "message": "汉语"
+   },
+   "lang_tag": {
+      "description": "The BCP-47 compatible language code used to tag content from this localization",
+      "message": "zh-Hans"
+   },
+   "measure_expl_chuukyouma": {
+      "description": "Parenthetical explanation used when presenting alternative conversions between 畳 and square metres",
+      "message": "（东海）"
+   },
+   "measure_expl_danchima": {
+      "description": "Parenthetical explanation used when presenting alternative conversions between 畳 and square metres",
+      "message": "（住宅小区）"
+   },
+   "measure_expl_edoma": {
+      "description": "Parenthetical explanation used when presenting alternative conversions between 畳 and square metres",
+      "message": "（东日本）"
+   },
+   "measure_expl_kyouma": {
+      "description": "Parenthetical explanation used when presenting alternative conversions between 畳 and square metres",
+      "message": "（西日本）"
+   },
+   "menu_enable_extension": {
+      "description": "Context menu item to enable the extension.",
+      "message": "启用 10ten reader"
+   },
+   "menu_enable_puck": {
+      "description": "Context menu item to enable the puck.",
+      "message": "启用用于触摸屏的圆形按钮"
+   },
+   "misc_label_X": {
+      "description": "Label used to describe senses with the 'X' (X-rated) annotation",
+      "message": "成人"
+   },
+   "misc_label_abbr": {
+      "description": "Label used to describe senses with the 'abbr' (abbrev.) annotation",
+      "message": "略"
+   },
+   "misc_label_aphorism": {
+      "description": "Label used to describe senses with the 'aphorism' (pithy saying) annotation",
+      "message": "格言"
+   },
+   "misc_label_arch": {
+      "description": "Label used to describe senses with the 'arch' (archaic) annotation",
+      "message": "古"
+   },
+   "misc_label_char": {
+      "description": "Label used to describe senses with the 'char' (character) annotation",
+      "message": "角色"
+   },
+   "misc_label_chn": {
+      "description": "Label used to describe senses with the 'chn' (children) annotation",
+      "message": "幼稚"
+   },
+   "misc_label_col": {
+      "description": "Label used to describe senses with the 'col' (colloquial) annotation",
+      "message": "俗语"
+   },
+   "misc_label_company": {
+      "description": "Label used to describe senses with the 'company' (company) annotation",
+      "message": "公司"
+   },
+   "misc_label_creat": {
+      "description": "Label used to describe senses with the 'creat' (creature) annotation",
+      "message": "生物"
+   },
+   "misc_label_dated": {
+      "description": "Label used to describe senses with the 'dated' (dated) annotation",
+      "message": "旧"
+   },
+   "misc_label_dei": {
+      "description": "Label used to describe senses with the 'dei' (deity) annotation",
+      "message": "神"
+   },
+   "misc_label_derog": {
+      "description": "Label used to describe senses with the 'derog' (derogatory) annotation",
+      "message": "轻蔑"
+   },
+   "misc_label_doc": {
+      "description": "Label used to describe senses with the 'doc' (document) annotation",
+      "message": "文书"
+   },
+   "misc_label_euph": {
+      "description": "Label used to describe senses with the 'euph' (euphemistic) annotation",
+      "message": "委婉的"
+   },
+   "misc_label_ev": {
+      "description": "Label used to describe senses with the 'ev' (event) annotation",
+      "message": "事件"
+   },
+   "misc_label_fam": {
+      "description": "Label used to describe senses with the 'fam' (familiar) annotation",
+      "message": "亲近"
+   },
+   "misc_label_fem": {
+      "description": "Label used to describe senses with the 'fem' (female term) annotation",
+      "message": "女性"
+   },
+   "misc_label_fict": {
+      "description": "Label used to describe senses with the 'fict' (fiction) annotation",
+      "message": "虚构作品"
+   },
+   "misc_label_form": {
+      "description": "Label used to describe senses with the 'form' (formal or literary term) annotation",
+      "message": "正式"
+   },
+   "misc_label_given": {
+      "description": "Label used to describe senses with the 'given' (given name) annotation",
+      "message": "名字"
+   },
+   "misc_label_group": {
+      "description": "Label used to describe senses with the 'group' (musical group, band etc.) annotation",
+      "message": "团体"
+   },
+   "misc_label_hist": {
+      "description": "Label used to describe senses with the 'hist' (historical) annotation",
+      "message": "历史上"
+   },
+   "misc_label_hon": {
+      "description": "Label used to describe senses with the 'hon' (honorific) annotation",
+      "message": "尊敬语"
+   },
+   "misc_label_hum": {
+      "description": "Label used to describe senses with the 'hum' (humble) annotation",
+      "message": "谦让语"
+   },
+   "misc_label_id": {
+      "description": "Label used to describe senses with the 'id' (idiomatic) annotation",
+      "message": "成句"
+   },
+   "misc_label_joc": {
+      "description": "Label used to describe senses with the 'joc' (jocular) annotation",
+      "message": "玩笑"
+   },
+   "misc_label_leg": {
+      "description": "Label used to describe senses with the 'leg' (legend) annotation",
+      "message": "传说"
+   },
+   "misc_label_m_sl": {
+      "description": "Label used to describe senses with the 'm-sl' (manga slang) annotation",
+      "message": "漫画俗语"
+   },
+   "misc_label_male": {
+      "description": "Label used to describe senses with the 'male' (male) annotation",
+      "message": "男性"
+   },
+   "misc_label_myth": {
+      "description": "Label used to describe senses with the 'myth' (mythology) annotation",
+      "message": "神话"
+   },
+   "misc_label_net_sl": {
+      "description": "Label used to describe senses with the 'net-sl' (Internet slang) annotation",
+      "message": "网络语言"
+   },
+   "misc_label_obj": {
+      "description": "Label used to describe senses with the 'obj' (object) annotation",
+      "message": "物品"
+   },
+   "misc_label_obs": {
+      "description": "Label used to describe senses with the 'obs' (obsolete) annotation",
+      "message": "死语"
+   },
+   "misc_label_obsc": {
+      "description": "Label used to describe senses with the 'obsc' (obscure) annotation",
+      "message": "生僻"
+   },
+   "misc_label_on_mim": {
+      "description": "Label used to describe senses with the 'on-mim' (onomatopoeia) annotation",
+      "message": "拟声"
+   },
+   "misc_label_organization": {
+      "description": "Label used to describe senses with the 'organization' (org.) annotation",
+      "message": "组织"
+   },
+   "misc_label_oth": {
+      "description": "Label used to describe senses with the 'oth' (other) annotation",
+      "message": "其他"
+   },
+   "misc_label_person": {
+      "description": "Label used to describe senses with the 'person' (person) annotation",
+      "message": "人物"
+   },
+   "misc_label_place": {
+      "description": "Label used to describe senses with the 'place' (place) annotation",
+      "message": "地名"
+   },
+   "misc_label_poet": {
+      "description": "Label used to describe senses with the 'poet' (poetical) annotation",
+      "message": "诗"
+   },
+   "misc_label_pol": {
+      "description": "Label used to describe senses with the 'pol' (polite) annotation",
+      "message": "礼貌"
+   },
+   "misc_label_product": {
+      "description": "Label used to describe senses with the 'product' (product) annotation",
+      "message": "商品名"
+   },
+   "misc_label_proverb": {
+      "description": "Label used to describe senses with the 'proverb' (proverb) annotation",
+      "message": "谚语"
+   },
+   "misc_label_quote": {
+      "description": "Label used to describe senses with the 'quote' (quote) annotation",
+      "message": "引用"
+   },
+   "misc_label_rare": {
+      "description": "Label used to describe senses with the 'rare' (rare) annotation",
+      "message": "少用"
+   },
+   "misc_label_relig": {
+      "description": "Label used to describe senses with the 'relig' (religion) annotation",
+      "message": "宗教"
+   },
+   "misc_label_sens": {
+      "description": "Label used to describe senses with the 'sens' (sensitive) annotation",
+      "message": "敏感"
+   },
+   "misc_label_serv": {
+      "description": "Label used to describe senses with the 'serv' (service) annotation",
+      "message": "服务"
+   },
+   "misc_label_sl": {
+      "description": "Label used to describe senses with the 'sl' (slang) annotation",
+      "message": "俚语"
+   },
+   "misc_label_station": {
+      "description": "Label used to describe senses with the 'station' (station) annotation",
+      "message": "车站名"
+   },
+   "misc_label_surname": {
+      "description": "Label used to describe senses with the 'surname' (surname) annotation",
+      "message": "姓氏"
+   },
+   "misc_label_uk": {
+      "description": "Label used to describe senses with the 'uk' (usually kana) annotation",
+      "message": "多用假名"
+   },
+   "misc_label_unclass": {
+      "description": "Label used to describe senses with the 'unclass' (unclassified) annotation",
+      "message": "未分类"
+   },
+   "misc_label_vulg": {
+      "description": "Label used to describe senses with the 'vulg' (vulgar) annotation",
+      "message": "粗俗"
+   },
+   "misc_label_work": {
+      "description": "Label used to describe senses with the 'work' (work) annotation",
+      "message": "作品"
+   },
+   "misc_label_yoji": {
+      "description": "Label used to describe senses with the 'yoji' (yojijukugo) annotation",
+      "message": "四字熟语"
+   },
+   "options_accent_data_source": {
+      "description": "Attribution for pitch accent data as described here: https://github.com/mifunetoshiro/kanjium",
+      "message": "声调数据来源于 Uros Ozvatic 的免费数据库。"
+   },
+   "options_accent_display_binary": {
+      "description": "Label for displaying the pitch accent using box outlines to show high and low",
+      "message": "高低线 ⎾⏋"
+   },
+   "options_accent_display_binary_high_contrast": {
+      "description": "Label for displaying the pitch accent using box outlines with higher contrast",
+      "message": "高低线 （高对比度）"
+   },
+   "options_accent_display_downstep": {
+      "description": "Label for displaying the pitch accent down-step as a small downward arrow ꜜ",
+      "message": "下箭头 ꜜ"
+   },
+   "options_accent_display_label": {
+      "description": "Label for the drop-down list used to configure how pitch accent information is displayed",
+      "message": "显示声调"
+   },
+   "options_accent_display_none": {
+      "description": "Label for not showing pitch accent information",
+      "message": "无"
+   },
+   "options_browser_commands_no_toggle_key": {
+      "description": "Descriptive text used for other browsers which do not permit configuring extension keys from the extension itself.",
+      "message": "您无法在浏览器中在此处更改此快捷键。"
+   },
+   "options_browser_commands_no_toggle_key_chrome": {
+      "description": "Descriptive text used for Chrome which does not permit configuring extension keys from the extension itself.",
+      "message": "如果要更改此快捷键，请访问 chrome://extensions/shortcuts 并更改设置。"
+   },
+   "options_browser_commands_no_toggle_key_edge": {
+      "description": "Descriptive text used for Edge which does not permit configuring extension keys from the extension itself.",
+      "message": "如果要更改此快捷键，请访问 edge://extensions/shortcuts 并更改设置。"
+   },
+   "options_bushu_data_name": {
+      "description": "The name for the bushu database data set",
+      "message": "部首数据库"
+   },
+   "options_cancel_update_button_label": {
+      "description": "Label for the button to cancel a database update",
+      "message": "取消"
+   },
+   "options_checking_for_updates": {
+      "description": "Label while we are checking for updates",
+      "message": "正在检查更新……"
+   },
+   "options_compatibility_heading": {
+      "description": "Heading for the section for configuring site compatibility",
+      "message": "兼容性"
+   },
+   "options_currency_conversion_heading": {
+      "description": "Heading for the section for configuring currency conversion",
+      "message": "货币转换"
+   },
+   "options_currency_label": {
+      "description": "Label for the drop-down box for choosing the currency",
+      "message": "货币"
+   },
+   "options_currency_none_label": {
+      "description": "Label for the special item to disable currency conversion",
+      "message": "无"
+   },
+   "options_data_series_date_only": {
+      "message": "基于 $source$ 资料，生成于 $generated$​。",
+      "placeholders": {
+         "generated": {
+            "content": "$2",
+            "example": "2019-10-19"
+         },
+         "source": {
+            "content": "$1",
+            "example": "KANJIDIC"
+         }
+      }
+   },
+   "options_data_series_version_and_date": {
+      "message": "基于 $source$ 版本 $version$​，生成于 $generated$​。",
+      "placeholders": {
+         "generated": {
+            "content": "$3",
+            "example": "2019-10-19"
+         },
+         "source": {
+            "content": "$1",
+            "example": "KANJIDIC"
+         },
+         "version": {
+            "content": "$2",
+            "example": "2019-282"
+         }
+      }
+   },
+   "options_data_source": {
+      "description": "Attribute of source data. The strings 'JMdict/EDICT', 'KANJIDIC' and 'JMnedict/ENAMDICT' must appear so that they can be link-ified to the corresponding project home pages.",
+      "message": "本词典含有来自 JMDict/EDICT，KANJIDIC 和 JMnedict/ENAMDICT 的资料。"
+   },
+   "options_database_initializing": {
+      "description": "Label when IndexedDB is being initialized",
+      "message": "数据库正在初始化"
+   },
+   "options_database_unavailable": {
+      "description": "Label when IndexedDB is unusable",
+      "message": "数据库存储不可用"
+   },
+   "options_db_update_error": {
+      "description": "Label when we failed to update the data for some reason",
+      "message": "更新失败：​$errormessage$",
+      "placeholders": {
+         "errormessage": {
+            "content": "$1",
+            "example": "Version file not found"
+         }
+      }
+   },
+   "options_db_update_next_retry": {
+      "description": "Label used when there is a scheduled retry",
+      "message": "计划于 $nextretry$ 重试",
+      "placeholders": {
+         "nextretry": {
+            "content": "$1",
+            "example": "2019-10-14 17:44"
+         }
+      }
+   },
+   "options_db_update_quota_error": {
+      "description": "Label when we failed to update the data for some reason",
+      "message": "磁盘空间不足。（大约有 $quota$ 可用空间）",
+      "placeholders": {
+         "quota": {
+            "content": "$1",
+            "example": "The amount of disk space available, formatted as a file size."
+         }
+      }
+   },
+   "options_dictionary_data_heading": {
+      "message": "词典数据"
+   },
+   "options_dictionary_language_heading": {
+      "message": "词典语言"
+   },
+   "options_downloading_data": {
+      "description": "Label while we are downloading updates",
+      "message": "正在下载​$datatype$​，版本 $version$​（​$progress$​%）……",
+      "placeholders": {
+         "datatype": {
+            "content": "$1",
+            "example": "kanji data"
+         },
+         "progress": {
+            "content": "$3",
+            "example": "60"
+         },
+         "version": {
+            "content": "$2",
+            "example": "1.0.3"
+         }
+      }
+   },
+   "options_edrdg_license": {
+      "description": "Description of license terms. The keywords 'Electronic Dictionary Research and Development Group' and options_edrdg_license_keyword must appear so they can be linkified. IT SHOULD BEGIN WITH APPROPRIATE SPACE IN LANGUAGES THAT SEPARATE SENTENCES WITH WHITESPACE.",
+      "message": "这些资料的所有权属于电子词典研究与开发小组（Electronic Dictionary Research and Development Group），10ten reader 在 EDRDG 的许可协议的约束下使用它们。"
+   },
+   "options_edrdg_license_keyword": {
+      "description": "The keyword in options_edrdg_license to link to the license",
+      "message": "许可协议"
+   },
+   "options_general_heading": {
+      "description": "Heading for common preferences.",
+      "message": "一般"
+   },
+   "options_highlight_matched_text": {
+      "message": "匹配词条高亮显示"
+   },
+   "options_highlight_style_blue": {
+      "message": "蓝色的"
+   },
+   "options_highlight_style_label": {
+      "description": "Title for the section for selection the highlight color",
+      "message": "高亮显示风格"
+   },
+   "options_highlight_style_yellow": {
+      "message": "黄色"
+   },
+   "options_kanji_components": {
+      "description": "Option to define if radicals are displayed or not",
+      "message": "汉字部件"
+   },
+   "options_kanji_data_name": {
+      "description": "The name for the kanji database data set",
+      "message": "汉字数据库"
+   },
+   "options_kanji_data_title": {
+      "description": "The kanji data series title and version",
+      "message": "汉字数据版本 v​$version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.0"
+         }
+      }
+   },
+   "options_kanji_dictionary_heading": {
+      "description": "Heading for options to configure what information is displayed from the kanji dictionary",
+      "message": "汉字词典"
+   },
+   "options_keyboard_heading": {
+      "description": "Heading for options to configure keyboard commands",
+      "message": "键盘"
+   },
+   "options_lang_kanji_only": {
+      "decsription": "Annotation added to language labels for languages where only the kanji data has been translated (i.e. but not the word data)",
+      "message": "（仅汉字）"
+   },
+   "options_lang_warning_always_en": {
+      "message": "单词释义的英语版会固定显示。"
+   },
+   "options_lang_warning_change_lang_redownload": {
+      "message": "更改语言时会重新下载数据文件。"
+   },
+   "options_lang_warning_names_en_only": {
+      "message": "名字词典仅有英语版可用。"
+   },
+   "options_lang_warning_other_lang_when_available": {
+      "message": "除英语以外的单词释义仅在可用时显示。"
+   },
+   "options_lang_warning_please_note": {
+      "message": "请注意："
+   },
+   "options_lang_warning_temporary_en_fallback": {
+      "message": "单词释义数据更新期间，可能会临时使用英语版的数据。"
+   },
+   "options_lang_words_only": {
+      "decsription": "Annotation added to language labels for languages where only the word data has been translated (i.e. but not the kanji data)",
+      "message": "（仅单词）"
+   },
+   "options_last_database_check": {
+      "description": "Status to show when we last checked for an update",
+      "message": "上次检查更新 $lastcheck$",
+      "placeholders": {
+         "lastcheck": {
+            "content": "$1",
+            "example": "2019-10-12"
+         }
+      }
+   },
+   "options_lookup_puck_heading": {
+      "description": "Heading for the section containing options controlling the lookup puck used on touch devices",
+      "message": "用于触摸屏的圆形按钮"
+   },
+   "options_mouse_interactivity_disable": {
+      "message": "禁用"
+   },
+   "options_mouse_interactivity_enable": {
+      "message": "启用"
+   },
+   "options_mouse_interactivity_label": {
+      "description": "Label for section for enabling mouse/touch interactivity in the popup",
+      "message": "鼠标操作"
+   },
+   "options_mouse_onboarding_learn_mode": {
+      "descripion": "Text for the link to the mouse onboarding page",
+      "message": "鼠标操作详解"
+   },
+   "options_name_data_name": {
+      "description": "The name for the name database data set",
+      "message": "名字数据库"
+   },
+   "options_name_data_title": {
+      "description": "The name data series title and version",
+      "message": "名字数据版本 v​$version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.0"
+         }
+      }
+   },
+   "options_new_badge_text": {
+      "description": "Text on the little badges highlighting new settings",
+      "message": "新功能！"
+   },
+   "options_no_database": {
+      "description": "Label when the database has not yet been downloaded",
+      "message": "没有数据库"
+   },
+   "options_offline_explanation": {
+      "description": "Message shown when the system is offline so updates cannot be performed",
+      "message": "无法检查更新，因为没有连接到互联网。一旦设备联网，10ten reader 会再次检查更新。"
+   },
+   "options_popup_close_popup": {
+      "message": "关闭弹出窗口"
+   },
+   "options_popup_copy_entry": {
+      "message": "复制词条"
+   },
+   "options_popup_copy_fields": {
+      "message": "复制以制表符分隔的内容"
+   },
+   "options_popup_copy_next": {
+      "message": "高亮显示下一个词条"
+   },
+   "options_popup_copy_word_kanji": {
+      "message": "复制词语或汉字"
+   },
+   "options_popup_interactivity_heading": {
+      "description": "Heading for the section for configuring popup interactivity features",
+      "message": "窗口交互"
+   },
+   "options_popup_kanji_lookup": {
+      "description": "Label for the key to force looking up the kanji dictionary only",
+      "message": "只查询汉字结果"
+   },
+   "options_popup_keys_subheading": {
+      "message": "窗口控制键"
+   },
+   "options_popup_move_popup_down_or_up": {
+      "description": "Note that it is important that down comes before up",
+      "message": "向上、下移动弹出窗口"
+   },
+   "options_popup_pin_popup": {
+      "message": "固定弹出窗口"
+   },
+   "options_popup_start_copy": {
+      "message": "进入复制模式"
+   },
+   "options_popup_style_heading": {
+      "description": "Heading for options to configure popup display",
+      "message": "窗口样式"
+   },
+   "options_popup_switch_dictionaries": {
+      "message": "切换词典"
+   },
+   "options_popup_toggle_definition": {
+      "message": "显示/隐藏释义"
+   },
+   "options_pos_display_code": {
+      "description": "Label for simply display dictionary part-of-speech codes",
+      "message": "词典缩写（例 ：“v5r”）"
+   },
+   "options_pos_display_expl": {
+      "description": "Label for configuring short explanations to be shown for part-of-speech. The \"-ru Godan/u-verb\" example should correspond to the localized value of pos_label_v5r.",
+      "message": "说明（例：“动ラ五”）"
+   },
+   "options_pos_display_label": {
+      "description": "Label for the drop-down list used to configure how part-of-speech tags are displayed",
+      "message": "显示词性"
+   },
+   "options_pos_display_none": {
+      "description": "Label for hiding part-of-speech labels",
+      "message": "无"
+   },
+   "options_show_context_menu_item": {
+      "description": "Option to enable context menu item with label `menu_enable_extension`",
+      "message": "右键菜单中添加“启用 10ten reader”"
+   },
+   "options_show_definitions": {
+      "message": "显示释义"
+   },
+   "options_show_popup_explanation": {
+      "message": "选择以下键时，按住键并将鼠标悬停在目标内容上以显示弹出窗口。 "
+   },
+   "options_show_popup_images_subheading": {
+      "message": "图片"
+   },
+   "options_show_popup_subheading": {
+      "message": "显示弹出窗口"
+   },
+   "options_show_popup_text_subheading": {
+      "message": "文本"
+   },
+   "options_show_priority": {
+      "description": "Label for enabling the ★ and ☆ markers next to dictionary headwords to indicate they occur frequently  or somewhat frequently respectively",
+      "message": "显示高频率（★）和较高频率（☆）的标志"
+   },
+   "options_show_puck_label": {
+      "description": "Leading text for options for when to display the puck",
+      "message": "显示圆形按钮："
+   },
+   "options_show_puck_option_auto": {
+      "description": "Option to have 10ten automatically determine when to show the puck",
+      "message": "自动"
+   },
+   "options_show_puck_option_hide": {
+      "description": "Option to always hide the puck",
+      "message": "隐藏"
+   },
+   "options_show_puck_option_show": {
+      "description": "Option to always show the puck",
+      "message": "显示"
+   },
+   "options_show_romaji": {
+      "message": "显示罗马字"
+   },
+   "options_tab_position_label": {
+      "description": "Heading for the radio buttons to choose the popup tab position",
+      "message": "标签栏位置"
+   },
+   "options_tab_position_left": {
+      "description": "Text label for the radio button to show tabs on the right",
+      "message": "左端"
+   },
+   "options_tab_position_none": {
+      "description": "Text label for the radio button to hide tabs",
+      "message": "不显示标签"
+   },
+   "options_tab_position_right": {
+      "description": "Text label for the radio button to show tabs on the right",
+      "message": "右端"
+   },
+   "options_tab_position_top": {
+      "description": "Text label for the radio button to show tabs on top",
+      "message": "上端"
+   },
+   "options_toolbar_icon_classic_label": {
+      "message": "经典的"
+   },
+   "options_toolbar_icon_default_alt": {
+      "description": "Alt text for the default toolbar icon",
+      "message": "默认"
+   },
+   "options_toolbar_icon_kanji_label": {
+      "message": "中国文字"
+   },
+   "options_toolbar_icon_label": {
+      "description": "Heading for the radio buttons to choose the toolbar icon",
+      "message": "工具栏图标"
+   },
+   "options_toolbar_icon_sky_alt": {
+      "description": "Alt text for the 天 toolbar icon",
+      "message": "天"
+   },
+   "options_update_check_button_label": {
+      "description": "Label for the button to check for database updates",
+      "message": "检查更新"
+   },
+   "options_update_retry_button_label": {
+      "description": "Label for the button to retry the database update after a failure",
+      "message": "重试"
+   },
+   "options_updated_badge_text": {
+      "description": "Text on the little badges highlighting updated settings",
+      "message": "更新！"
+   },
+   "options_words_data_name": {
+      "description": "The name for the words database data set",
+      "message": "单词数据库"
+   },
+   "options_words_data_title": {
+      "description": "The word data series title and version",
+      "message": "单词数据版本 v​$version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.0"
+         }
+      }
+   },
+   "popup_close_label": {
+      "description": "The aria-label associated with the button to close the popup",
+      "message": "关闭"
+   },
+   "popup_pin_label": {
+      "description": "The aria-label associated with the button to pin the popup",
+      "message": "固定弹出窗口"
+   },
+   "popup_settings_label": {
+      "description": "The aria-label associated with the button to open the settings panel from the popup",
+      "message": "设置"
+   },
+   "pos_label_adj_f": {
+      "description": "Short part-of-speech label shown next to noun or verb entries acting prenominally",
+      "message": "连体"
+   },
+   "pos_label_adj_i": {
+      "description": "Short part-of-speech label shown next to adjective (keiyoushi) entries",
+      "message": "形"
+   },
+   "pos_label_adj_ix": {
+      "description": "Short part-of-speech label shown next to adjective (keiyoushi) - yoi/ii class entries",
+      "message": "形（よい）"
+   },
+   "pos_label_adj_kari": {
+      "description": "Short part-of-speech label shown next to 'kari' adjective (archaic) entries",
+      "message": "形（カリ）"
+   },
+   "pos_label_adj_ku": {
+      "description": "Short part-of-speech label shown next to 'ku' adjective (archaic) entries",
+      "message": "形（ク）"
+   },
+   "pos_label_adj_na": {
+      "description": "Short part-of-speech label shown next to adjectival nouns or quasi-adjectives (keiyodoshi) entries",
+      "message": "形动"
+   },
+   "pos_label_adj_nari": {
+      "description": "Short part-of-speech label shown next to archaic/formal form of na-adjective entries",
+      "message": "形动（なり）"
+   },
+   "pos_label_adj_no": {
+      "description": "Short part-of-speech label shown next to nouns which may take the genitive case particle 'no' entries",
+      "message": "ノ形容"
+   },
+   "pos_label_adj_pn": {
+      "description": "Short part-of-speech label shown next to pre-noun adjectival (rentaishi) entries",
+      "message": "连体"
+   },
+   "pos_label_adj_shiku": {
+      "description": "Short part-of-speech label shown next to 'shiku' adjective (archaic) entries",
+      "message": "形（シク）"
+   },
+   "pos_label_adj_t": {
+      "description": "Short part-of-speech label shown next to 'taru' adjective entries",
+      "message": "形动（タル）"
+   },
+   "pos_label_adv": {
+      "description": "Short part-of-speech label shown next to adverb (fukushi) entries",
+      "message": "副"
+   },
+   "pos_label_adv_to": {
+      "description": "Short part-of-speech label shown next to adverb taking the 'to' particle entries",
+      "message": "副ト"
+   },
+   "pos_label_aux": {
+      "description": "Short part-of-speech label shown next to auxiliary entries",
+      "message": "助"
+   },
+   "pos_label_aux_adj": {
+      "description": "Short part-of-speech label shown next to auxiliary adjective entries",
+      "message": "助形"
+   },
+   "pos_label_aux_v": {
+      "description": "Short part-of-speech label shown next to auxiliary verb entries",
+      "message": "助动"
+   },
+   "pos_label_conj": {
+      "description": "Short part-of-speech label shown next to conjunction entries",
+      "message": "连"
+   },
+   "pos_label_cop": {
+      "description": "Short part-of-speech label shown next to copula entries",
+      "message": "系动"
+   },
+   "pos_label_ctr": {
+      "description": "Short part-of-speech label shown next to counter entries",
+      "message": "助数"
+   },
+   "pos_label_exp": {
+      "description": "Short part-of-speech label shown next to expressions (phrases, clauses, etc.) entries",
+      "message": "短语"
+   },
+   "pos_label_int": {
+      "description": "Short part-of-speech label shown next to interjection (kandoushi) entries",
+      "message": "叹"
+   },
+   "pos_label_n": {
+      "description": "Short part-of-speech label shown next to noun (common) (futsuumeishi) entries",
+      "message": "名"
+   },
+   "pos_label_n_adv": {
+      "description": "Short part-of-speech label shown next to adverbial noun (fukushitekimeishi) entries",
+      "message": "副名"
+   },
+   "pos_label_n_pr": {
+      "description": "Short part-of-speech label shown next to proper noun entries",
+      "message": "专"
+   },
+   "pos_label_n_pref": {
+      "description": "Short part-of-speech label shown next to noun, used as a prefix entries",
+      "message": "前缀"
+   },
+   "pos_label_n_suf": {
+      "description": "Short part-of-speech label shown next to noun, used as a suffix entries",
+      "message": "后缀"
+   },
+   "pos_label_n_t": {
+      "description": "Short part-of-speech label shown next to noun (temporal) (jisoumeishi) entries",
+      "message": "时间名词"
+   },
+   "pos_label_num": {
+      "description": "Short part-of-speech label shown next to numeric entries",
+      "message": "数"
+   },
+   "pos_label_pn": {
+      "description": "Short part-of-speech label shown next to pronoun entries",
+      "message": "代"
+   },
+   "pos_label_pref": {
+      "description": "Short part-of-speech label shown next to prefix entries",
+      "message": "前缀"
+   },
+   "pos_label_prt": {
+      "description": "Short part-of-speech label shown next to particle entries",
+      "message": "助"
+   },
+   "pos_label_suf": {
+      "description": "Short part-of-speech label shown next to suffix entries",
+      "message": "后缀"
+   },
+   "pos_label_unc": {
+      "description": "Short part-of-speech label shown next to unclassified entries",
+      "message": "?"
+   },
+   "pos_label_v1": {
+      "description": "Short part-of-speech label shown next to Ichidan verb entries",
+      "message": "动一"
+   },
+   "pos_label_v1_s": {
+      "description": "Short part-of-speech label shown next to Ichidan verb - kureru special class entries",
+      "message": "动一（くれる）"
+   },
+   "pos_label_v2a_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb with 'u' ending (archaic) entries",
+      "message": "动ア二"
+   },
+   "pos_label_v2b_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'bu' ending (archaic) entries",
+      "message": "动上二"
+   },
+   "pos_label_v2b_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'bu' ending (archaic) entries",
+      "message": "动バ下二"
+   },
+   "pos_label_v2d_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'dzu' ending (archaic) entries",
+      "message": "动ダ上二"
+   },
+   "pos_label_v2d_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'dzu' ending (archaic) entries",
+      "message": "动ダ下二"
+   },
+   "pos_label_v2g_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'gu' ending (archaic) entries",
+      "message": "动ガ上二"
+   },
+   "pos_label_v2g_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'gu' ending (archaic) entries",
+      "message": "动ガ下二"
+   },
+   "pos_label_v2h_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'hu/fu' ending (archaic) entries",
+      "message": "动ハ上二"
+   },
+   "pos_label_v2h_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'hu/fu' ending (archaic) entries",
+      "message": "动ハ下二"
+   },
+   "pos_label_v2k_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'ku' ending (archaic) entries",
+      "message": "动カ上二"
+   },
+   "pos_label_v2k_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'ku' ending (archaic) entries",
+      "message": "动カ下二"
+   },
+   "pos_label_v2m_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'mu' ending (archaic) entries",
+      "message": "动マ上二"
+   },
+   "pos_label_v2m_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'mu' ending (archaic) entries",
+      "message": "动マ下二"
+   },
+   "pos_label_v2n_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'nu' ending (archaic) entries",
+      "message": "动ナ下二"
+   },
+   "pos_label_v2r_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'ru' ending (archaic) entries",
+      "message": "动ラ上二"
+   },
+   "pos_label_v2r_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'ru' ending (archaic) entries",
+      "message": "动ラ下二"
+   },
+   "pos_label_v2s_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'su' ending (archaic) entries",
+      "message": "动サ下二"
+   },
+   "pos_label_v2t_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'tsu' ending (archaic) entries",
+      "message": "动タ上二"
+   },
+   "pos_label_v2t_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'tsu' ending (archaic) entries",
+      "message": "动タ下二"
+   },
+   "pos_label_v2w_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'u' ending and 'we' conjugation (archaic) entries",
+      "message": "动ワ下二"
+   },
+   "pos_label_v2y_k": {
+      "description": "Short part-of-speech label shown next to Nidan verb (upper class) with 'yu' ending (archaic) entries",
+      "message": "动ヤ上二"
+   },
+   "pos_label_v2y_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'yu' ending (archaic) entries",
+      "message": "动ヤ下二"
+   },
+   "pos_label_v2z_s": {
+      "description": "Short part-of-speech label shown next to Nidan verb (lower class) with 'zu' ending (archaic) entries",
+      "message": "动ザ下二"
+   },
+   "pos_label_v4b": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'bu' ending (archaic) entries",
+      "message": "动バ四"
+   },
+   "pos_label_v4g": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'gu' ending (archaic) entries",
+      "message": "动ガ四"
+   },
+   "pos_label_v4h": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'hu/fu' ending (archaic) entries",
+      "message": "动ハ四"
+   },
+   "pos_label_v4k": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'ku' ending (archaic) entries",
+      "message": "动カ四"
+   },
+   "pos_label_v4m": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'mu' ending (archaic) entries",
+      "message": "动マ四"
+   },
+   "pos_label_v4n": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'nu' ending (archaic) entries",
+      "message": "动ナ四"
+   },
+   "pos_label_v4r": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'ru' ending (archaic) entries",
+      "message": "动ラ四"
+   },
+   "pos_label_v4s": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'su' ending (archaic) entries",
+      "message": "动サ四"
+   },
+   "pos_label_v4t": {
+      "description": "Short part-of-speech label shown next to Yodan verb with 'tsu' ending (archaic) entries",
+      "message": "动タ四"
+   },
+   "pos_label_v5aru": {
+      "description": "Short part-of-speech label shown next to Godan verb - -aru special class entries",
+      "message": "动ラ五变格"
+   },
+   "pos_label_v5b": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'bu' ending entries",
+      "message": "动バ五"
+   },
+   "pos_label_v5g": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'gu' ending entries",
+      "message": "动ガ五"
+   },
+   "pos_label_v5k": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'ku' ending entries",
+      "message": "动カ五"
+   },
+   "pos_label_v5k_s": {
+      "description": "Short part-of-speech label shown next to Godan verb - Iku/Yuku special class entries",
+      "message": "动カ五变格"
+   },
+   "pos_label_v5m": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'mu' ending entries",
+      "message": "动マ五"
+   },
+   "pos_label_v5n": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'nu' ending entries",
+      "message": "动ナ五"
+   },
+   "pos_label_v5r": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'ru' ending entries",
+      "message": "动ラ五"
+   },
+   "pos_label_v5r_i": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'ru' ending (irregular verb) entries",
+      "message": "动ラ五（ラ变）"
+   },
+   "pos_label_v5s": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'su' ending entries",
+      "message": "动サ五"
+   },
+   "pos_label_v5t": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'tsu' ending entries",
+      "message": "动タ五"
+   },
+   "pos_label_v5u": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'u' ending entries",
+      "message": "动ア五"
+   },
+   "pos_label_v5u_s": {
+      "description": "Short part-of-speech label shown next to Godan verb with 'u' ending (special class) entries",
+      "message": "动ワ五"
+   },
+   "pos_label_v5uru": {
+      "description": "Short part-of-speech label shown next to Godan verb - Uru old class verb (old form of Eru) entries (this doesn't appear to be used)",
+      "message": "动"
+   },
+   "pos_label_v_unspec": {
+      "description": "Short part-of-speech label shown next to verb unspecified entries",
+      "message": "动"
+   },
+   "pos_label_vi": {
+      "description": "Short part-of-speech label shown next to intransitive verb entries",
+      "message": "自动"
+   },
+   "pos_label_vk": {
+      "description": "Short part-of-speech label shown next to Kuru verb - special class entries",
+      "message": "动カ变"
+   },
+   "pos_label_vn": {
+      "description": "Short part-of-speech label shown next to irregular nu verb entries",
+      "message": "动ナ变"
+   },
+   "pos_label_vr": {
+      "description": "Short part-of-speech label shown next to irregular ru verb, plain form ends with -ri entries",
+      "message": "动ラ变"
+   },
+   "pos_label_vs": {
+      "description": "Short part-of-speech label shown next to noun or participle which takes the aux. verb suru entries",
+      "message": "サ变名"
+   },
+   "pos_label_vs_c": {
+      "description": "Short part-of-speech label shown next to su verb - precursor to the modern suru entries",
+      "message": "动サ变"
+   },
+   "pos_label_vs_i": {
+      "description": "Short part-of-speech label shown next to suru verb - included entries",
+      "message": "动サ变"
+   },
+   "pos_label_vs_s": {
+      "description": "Short part-of-speech label shown next to suru verb - special class entries",
+      "message": "动サ变"
+   },
+   "pos_label_vt": {
+      "description": "Short part-of-speech label shown next to transitive verb entries",
+      "message": "他动"
+   },
+   "pos_label_vz": {
+      "description": "Short part-of-speech label shown next to Ichidan verb - zuru verb (alternative form of -jiru verbs) entries",
+      "message": "动一（ずる）"
+   },
+   "ref_label_jlpt": {
+      "description": "The label used when presenting the level the kanji appears in in the old JLPT system",
+      "message": "JLPT"
+   },
+   "ref_label_kk": {
+      "description": "The label used when presenting Kanji Kentei levels",
+      "message": "汉字检定"
+   },
+   "ref_label_nelson_r": {
+      "description": "The label used when presenting Nelson's revised radical numbers. This should generally be a label that will sort directly after ref_label_radical when using String.localCompare.",
+      "message": "部首 (Nelson)"
+   },
+   "ref_label_py": {
+      "description": "The label used when present the Pinyin reading",
+      "message": "拼音"
+   },
+   "ref_label_radical": {
+      "description": "The label used when presenting radical numbers",
+      "message": "部首"
+   },
+   "ref_label_unicode": {
+      "description": "The label used when presenting the Unicode codepoint of the kanji",
+      "message": "Unicode"
+   },
+   "shogi_dest_same": {
+      "message": "同じ場所"
+   },
+   "shogi_dest_same_suffix": {
+      "message": "（同じ場所）"
+   },
+   "shogi_label": {
+      "message": "日本将棋"
+   },
+   "shogi_move_piece_dest": {
+      "message": "$piece$​を​$dest$​に",
+      "placeholders": {
+         "dest": {
+            "content": "$2"
+         },
+         "piece": {
+            "content": "$1"
+         }
+      }
+   },
+   "shogi_move_piece_dest_movement": {
+      "message": "$piece$​を​$dest$​に​$movement$",
+      "placeholders": {
+         "dest": {
+            "content": "$2"
+         },
+         "movement": {
+            "content": "$3"
+         },
+         "piece": {
+            "content": "$1"
+         }
+      }
+   },
+   "shogi_move_side_piece_dest": {
+      "message": "$side$​が​$piece$​を​$dest$​に",
+      "placeholders": {
+         "dest": {
+            "content": "$3"
+         },
+         "piece": {
+            "content": "$2"
+         },
+         "side": {
+            "content": "$1"
+         }
+      }
+   },
+   "shogi_move_side_piece_dest_movement": {
+      "message": "$side$​が​$piece$​を​$dest$​に​$movement$",
+      "placeholders": {
+         "dest": {
+            "content": "$3"
+         },
+         "movement": {
+            "content": "$4"
+         },
+         "piece": {
+            "content": "$2"
+         },
+         "side": {
+            "content": "$1"
+         }
+      }
+   },
+   "shogi_movement_down": {
+      "message": "下げる"
+   },
+   "shogi_movement_drop": {
+      "message": "打つ"
+   },
+   "shogi_movement_horiz": {
+      "message": "左右に動かす"
+   },
+   "shogi_movement_left": {
+      "message": "左から動かす"
+   },
+   "shogi_movement_right": {
+      "message": "右から動かす"
+   },
+   "shogi_movement_up": {
+      "message": "上げる"
+   },
+   "shogi_movement_vert": {
+      "message": "まっすぐ上げる"
+   },
+   "shogi_not_promoted_suffix": {
+      "message": "（成らない）"
+   },
+   "shogi_piece_b": {
+      "message": "角行"
+   },
+   "shogi_piece_g": {
+      "message": "金将"
+   },
+   "shogi_piece_k": {
+      "message": "王将"
+   },
+   "shogi_piece_l": {
+      "message": "香車"
+   },
+   "shogi_piece_n": {
+      "message": "桂馬"
+   },
+   "shogi_piece_p": {
+      "message": "歩兵"
+   },
+   "shogi_piece_pro_b": {
+      "message": "竜馬"
+   },
+   "shogi_piece_pro_l": {
+      "message": "成香"
+   },
+   "shogi_piece_pro_n": {
+      "message": "成桂"
+   },
+   "shogi_piece_pro_p": {
+      "message": "と金"
+   },
+   "shogi_piece_pro_r": {
+      "message": "竜王"
+   },
+   "shogi_piece_pro_s": {
+      "message": "成銀"
+   },
+   "shogi_piece_r": {
+      "message": "飛車"
+   },
+   "shogi_piece_s": {
+      "message": "銀将"
+   },
+   "shogi_promoted_suffix": {
+      "message": "（成る）"
+   },
+   "shogi_side_black": {
+      "message": "先手"
+   },
+   "shogi_side_white": {
+      "message": "後手"
+   },
+   "tabs_kanji_label": {
+      "description": "The label for the kanji dictionary tab",
+      "message": "汉字"
+   },
+   "tabs_names_label": {
+      "description": "The label for the names dictionary tab",
+      "message": "名字"
+   },
+   "tabs_words_label": {
+      "description": "The label for the words dictionary tab",
+      "message": "单词"
+   }
+}

@@ -1,0 +1,671 @@
+{
+   "buttonApply": {
+      "message": "Apply"
+   },
+   "buttonCancel": {
+      "message": "Mégse"
+   },
+   "buttonCheckForUpdates": {
+      "message": "Frissítések keresése"
+   },
+   "buttonClose": {
+      "message": "Bezár"
+   },
+   "buttonConfirmInstallation": {
+      "message": "Telepítés megerősítése"
+   },
+   "buttonConfirmReinstallation": {
+      "message": "Újratelepítés megerősítése"
+   },
+   "buttonDisable": {
+      "message": "Kikapcsol"
+   },
+   "buttonEdit": {
+      "message": "Szerkeszt"
+   },
+   "buttonEditClickHint": {
+      "message": "Használhatod a jobb klikket, a CTRL+klikket és a görgő klikket a szkript nevén."
+   },
+   "buttonEmptyRecycleBin": {
+      "message": "Kuka kiűrítése most!"
+   },
+   "buttonEnable": {
+      "message": "Bekapcsol"
+   },
+   "buttonExportData": {
+      "message": "Exportálás zip-ként"
+   },
+   "buttonHome": {
+      "message": "Kezdőlap"
+   },
+   "buttonImportData": {
+      "message": "Importálás zip-ből"
+   },
+   "buttonInstallFromURL": {
+      "message": "Telepítés URL-ről"
+   },
+   "buttonNew": {
+      "message": "Új"
+   },
+   "buttonOK": {
+      "message": "OK"
+   },
+   "buttonRecycleBin": {
+      "message": "Kuka"
+   },
+   "buttonRemove": {
+      "message": "Eltávolít"
+   },
+   "buttonReplace": {
+      "message": "Lecserél"
+   },
+   "buttonReplaceAll": {
+      "message": "Összes"
+   },
+   "buttonReset": {
+      "message": "Visszaállít"
+   },
+   "buttonRestore": {
+      "message": "Helyreállít"
+   },
+   "buttonSave": {
+      "message": "Mentés"
+   },
+   "buttonSaveClose": {
+      "message": "Mentés & Bezárás"
+   },
+   "buttonShowEditorState": {
+      "message": "Szerkesztő állapotának mutatása"
+   },
+   "buttonSupport": {
+      "message": "Támogatói oldal"
+   },
+   "buttonUpdate": {
+      "message": "Update"
+   },
+   "buttonUpdateAll": {
+      "message": "Frissítések keresése (mindenhez)"
+   },
+   "buttonVacuum": {
+      "message": "Adatbázis felszívása"
+   },
+   "buttonVacuumed": {
+      "message": "Adatbázis felszívva"
+   },
+   "buttonVacuuming": {
+      "message": "Adatok felszívása..."
+   },
+   "confirmNotSaved": {
+      "message": "Szerkesztések nincsenek mentve!\nKattints az OK gombra, hogy eldobd őket, vagy a Mégse gombra, ha maradni akarsz a szerkesztőben."
+   },
+   "descBlacklist": {
+      "message": "Azok az URL-ek listája, amelyek egyátalán nem lesznek kiegészítve."
+   },
+   "descCustomCSS": {
+      "message": "Egyedi CSS az opciók és szkript telepítési oldalra. Ha nem tudod mire van ez, akkor ne nyúlj hozzá."
+   },
+   "descEditorOptions": {
+      "message": "Egyedi opciók CodeMirror és bővítményei számára JSON objektként, mint \u003Ccode>{\"indentUnit\":2, \"smartIndent\":true}\u003C/code>, viszont figyelj arra, hogy van amelyik nem működik Violentmonkey-on belül. Teljes lista \u003Ca href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">elérhetősége\u003C/a>."
+   },
+   "editHelpDocumention": {
+      "message": "Dokumentáció a felhasználói szkript metaadat blokkjához és a \u003Ccode>GM\u003C/code> API-hoz:"
+   },
+   "editHelpKeyboard": {
+      "message": "Gyorsbillentyűk:"
+   },
+   "editHowToHint": {
+      "message": "Másik szerkesztőt szeretnél használni?"
+   },
+   "editLabelMeta": {
+      "message": "Egyedi metaadat"
+   },
+   "editLabelSettings": {
+      "message": "Szkript beállítások"
+   },
+   "editLongLine": {
+      "message": "Sor túl hosszú"
+   },
+   "editLongLineTooltip": {
+      "message": "Ez a sor túl hosszú, ezért a szöveg benne összeesett, hogy ne lassuljon le a szerkesztő.\nA határt átállíthatod a haladó beállításokon, például:\n\"maxDisplayLength\": 20000"
+   },
+   "editNavCode": {
+      "message": "Kód"
+   },
+   "editNavSettings": {
+      "message": "Beállítások"
+   },
+   "editNavValues": {
+      "message": "Értékek"
+   },
+   "editValueAllHint": {
+      "message": "Teljes értéktároló lista mutatása / szerkesztése"
+   },
+   "extDescription": {
+      "message": "Egy nyilt forráskódú felhasználó szkript kezelő, ami sok böngészőt támogat"
+   },
+   "extName": {
+      "message": "Violentmonkey"
+   },
+   "failureReasonBlacklisted": {
+      "message": "A Violentmonkey beállításainak feketelistáján található"
+   },
+   "failureReasonNoninjectable": {
+      "message": "Violentmonkey nem tud futtatni felhasználói szkriptet ezen az oldalon\n(gyakori példák: böngésző UI, bővítmény, rendelkezés miatt blokkolt, keresőoldal Operában)"
+   },
+   "filterAlphabeticalOrder": {
+      "message": "abécésorrend"
+   },
+   "filterExecutionOrder": {
+      "message": "futtatási sorrend"
+   },
+   "filterLastUpdateOrder": {
+      "message": "legutóbbi frissítési idő"
+   },
+   "filterScopeAll": {
+      "message": "Minden"
+   },
+   "filterScopeCode": {
+      "message": "Kód"
+   },
+   "filterScopeName": {
+      "message": "Név"
+   },
+   "filterSize": {
+      "message": "méret"
+   },
+   "genericError": {
+      "message": "Hiba"
+   },
+   "genericOff": {
+      "message": "ki"
+   },
+   "genericOn": {
+      "message": "be"
+   },
+   "genericUseGlobal": {
+      "message": "globális beállítás használata"
+   },
+   "headerRecycleBin": {
+      "message": "Kuka"
+   },
+   "hintInputURL": {
+      "message": "Írd be az URL-t:"
+   },
+   "hintRecycleBin": {
+      "message": "Kitörölt szkriptek itt találhatók és megmaradnak 7 napig."
+   },
+   "hintUseDownloadURL": {
+      "message": "@downloadURL használata"
+   },
+   "hintVacuum": {
+      "message": "Redundanciák elhagyása és a gyorsítótárból hiányzó erőforrások újratöltése."
+   },
+   "installFrom": {
+      "message": "Telepítés innen: $1"
+   },
+   "installOptionClose": {
+      "message": "Bezárás telepítés után"
+   },
+   "installOptionTrack": {
+      "message": "Helyi fájl megfigyelése amíg ez az ablak nem záródik be"
+   },
+   "installOptionTrackTooltip": {
+      "message": "A forrásfájl lapnak nyitva kellene maradnia Firefox 68 és későbbi verzióknál."
+   },
+   "labelAdvanced": {
+      "message": "Haladó"
+   },
+   "labelAllowUpdate": {
+      "message": "Frissítés engedélyezése"
+   },
+   "labelAuthor": {
+      "message": "Készítő:"
+   },
+   "labelAutoReloadCurrentTab": {
+      "message": "Jelenlegi lap újratöltése egy szkript be/kikapcsolása után a menüben"
+   },
+   "labelAutoReloadCurrentTabDisabled": {
+      "message": "Jelenlegi szkriptek futni fognak addig, amíg újra nincs töltve a lap"
+   },
+   "labelAutoUpdate": {
+      "message": "Keress szkript frissítéseket minde $1 napon, használj 0-t hogy kikapcsold"
+   },
+   "labelBackup": {
+      "message": "Biztonsági mentés"
+   },
+   "labelBadge": {
+      "message": "Jelvényen mutat: "
+   },
+   "labelBadgeColors": {
+      "message": "Jelvény színek: "
+   },
+   "labelBadgeNone": {
+      "message": "nem"
+   },
+   "labelBadgeTotal": {
+      "message": "futó szkriptek száma"
+   },
+   "labelBadgeUnique": {
+      "message": "egyedi futó szkriptek száma"
+   },
+   "labelBlacklist": {
+      "message": "Feketelista"
+   },
+   "labelContributors": {
+      "message": "Közreműködők"
+   },
+   "labelCurrentLang": {
+      "message": "Jelenlegi nyelv: "
+   },
+   "labelCustomCSS": {
+      "message": "Egyedi stílus"
+   },
+   "labelDonate": {
+      "message": "Támogass minket"
+   },
+   "labelDownloadURL": {
+      "message": "Letöltési URL:"
+   },
+   "labelEditValue": {
+      "message": "Szkript érték szerkesztése"
+   },
+   "labelEditValueAll": {
+      "message": "Szkript értéktároló szerkesztése"
+   },
+   "labelEditor": {
+      "message": "Szerkesztő"
+   },
+   "labelExclude": {
+      "message": "@exclude szabályok"
+   },
+   "labelExcludeMatch": {
+      "message": "@exclude-match szabályok"
+   },
+   "labelExportScriptData": {
+      "message": "Szkript adatok exportálása"
+   },
+   "labelExposeStatus": {
+      "message": "Telepített verzió bejelentése a felhasználói szkript katalógus oldalakon: $1"
+   },
+   "labelFeedback": {
+      "message": "Visszajelzés"
+   },
+   "labelFilterSort": {
+      "message": "Sorrend: $1"
+   },
+   "labelGeneral": {
+      "message": "Általános"
+   },
+   "labelHelpTranslate": {
+      "message": "Segíts a fordítással"
+   },
+   "labelHomepage": {
+      "message": "Oldal"
+   },
+   "labelHomepageURL": {
+      "message": "Weboldal:"
+   },
+   "labelImportScriptData": {
+      "message": "Szkript adatok importálása"
+   },
+   "labelImportSettings": {
+      "message": "Beállítások importálása"
+   },
+   "labelInclude": {
+      "message": "@include szabályok"
+   },
+   "labelInjectionMode": {
+      "message": "Kiegészítési módszer: "
+   },
+   "labelInstall": {
+      "message": "Szkript telepítése:"
+   },
+   "labelKeepOriginal": {
+      "message": "Eredeti megtartása"
+   },
+   "labelLastUpdatedAt": {
+      "message": "Legutoljára frissítve: $1"
+   },
+   "labelLineNumber": {
+      "message": "Sorszám: "
+   },
+   "labelMatch": {
+      "message": "@match szabályok"
+   },
+   "labelName": {
+      "message": "Név:"
+   },
+   "labelNoFrames": {
+      "message": "Futtatás iframe-en: "
+   },
+   "labelNoName": {
+      "message": "Nincs név"
+   },
+   "labelNoSearchScripts": {
+      "message": "Nincs szkript találva."
+   },
+   "labelNotifyThisUpdated": {
+      "message": ", majd jelzés:"
+   },
+   "labelNotifyUpdates": {
+      "message": "Szkript frissítés jelzése"
+   },
+   "labelNotifyUpdatesGlobal": {
+      "message": "szkriptenkénti szabályok ignorálása (\"Beállítások\" lap a szerkesztőben)"
+   },
+   "labelPopupSort": {
+      "message": "Felugró szkriptek rendezése az alábbiak szerint: $1"
+   },
+   "labelPrivacyPolicy": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "labelReinstall": {
+      "message": "Szkript újratelepítése"
+   },
+   "labelRelated": {
+      "message": "Kapcsolódó linkek: "
+   },
+   "labelRemovedAt": {
+      "message": "Törölve: $1"
+   },
+   "labelReplace": {
+      "message": "Lecserélve ezzel: "
+   },
+   "labelRunAt": {
+      "message": "Futtatás ekkor: "
+   },
+   "labelRunAtDefault": {
+      "message": "(Alapértelmezett)"
+   },
+   "labelScriptTemplate": {
+      "message": "Egyedi szkript sablon"
+   },
+   "labelSearch": {
+      "message": "Keresés erre: "
+   },
+   "labelSearchScript": {
+      "message": "Szkriptek keresése..."
+   },
+   "labelSettings": {
+      "message": "Beállítások"
+   },
+   "labelShowOrder": {
+      "message": "Show execution order positions"
+   },
+   "labelSync": {
+      "message": "Sync"
+   },
+   "labelSyncAnonymous": {
+      "message": "Use anonymous account"
+   },
+   "labelSyncAuthorize": {
+      "message": "Authorize"
+   },
+   "labelSyncAuthorizing": {
+      "message": "Authorizing"
+   },
+   "labelSyncDisabled": {
+      "message": "None"
+   },
+   "labelSyncPassword": {
+      "message": "Password: "
+   },
+   "labelSyncRevoke": {
+      "message": "Revoke"
+   },
+   "labelSyncScriptStatus": {
+      "message": "Sync script status"
+   },
+   "labelSyncServerUrl": {
+      "message": "Server URL: "
+   },
+   "labelSyncService": {
+      "message": "Sync to"
+   },
+   "labelSyncUsername": {
+      "message": "Username: "
+   },
+   "labelTheme": {
+      "message": "Theme: "
+   },
+   "labelUpdateURL": {
+      "message": "Update URL:"
+   },
+   "labelViewSingleColumn": {
+      "message": "Single column"
+   },
+   "labelViewTable": {
+      "message": "Table view"
+   },
+   "labelXhrInject": {
+      "message": "Synchronous $1 mode"
+   },
+   "labelXhrInjectHint": {
+      "message": "Enable only if you have a script that needs to run before the page starts loading and currently it's running too late. Just like Instant injection mode in Tampermonkey, this option is using the deprecated synchronous XHR, so in Chrome/Chromium you'll see warnings in devtools console, although you can safely ignore them as the adverse affects are negligible in this case. You can hide the warnings for good by right-clicking one."
+   },
+   "lastSync": {
+      "message": "Last sync at $1"
+   },
+   "learnBlacklist": {
+      "message": "Learn more about blacklist patterns."
+   },
+   "learnInjectionMode": {
+      "message": "Learn more about injection modes."
+   },
+   "menuDashboard": {
+      "message": "Open Dashboard"
+   },
+   "menuExclude": {
+      "message": "Exclude..."
+   },
+   "menuExcludeHint": {
+      "message": "The current tab will auto-reload if you enabled this option in general settings.\nTo apply changes to all other tabs please reload them manually.\nUse \"Settings\" tab of the editor for more flexibility."
+   },
+   "menuFindScripts": {
+      "message": "Find scripts for this site"
+   },
+   "menuInjectionFailed": {
+      "message": "Could not inject some scripts."
+   },
+   "menuInjectionFailedFix": {
+      "message": "Retry in \"auto\" mode"
+   },
+   "menuMatchedDisabledScripts": {
+      "message": "Matched disabled scripts"
+   },
+   "menuMatchedFrameScripts": {
+      "message": "Sub-frames only scripts"
+   },
+   "menuMatchedScripts": {
+      "message": "Matched scripts"
+   },
+   "menuNewScript": {
+      "message": "Create a new script"
+   },
+   "menuScriptDisabled": {
+      "message": "Scripts disabled"
+   },
+   "menuScriptEnabled": {
+      "message": "Scripts enabled"
+   },
+   "msgCheckingForUpdate": {
+      "message": "Checking for updates..."
+   },
+   "msgDateFormatInfo": {
+      "message": "Click to open MomentJS documentation. Allowed tokens: $1. Use [square brackets] to protect literal text."
+   },
+   "msgErrorFetchingResource": {
+      "message": "Error fetching resource!"
+   },
+   "msgErrorFetchingScript": {
+      "message": "Error fetching script!"
+   },
+   "msgErrorFetchingUpdateInfo": {
+      "message": "Failed fetching update information."
+   },
+   "msgErrorLoadingData": {
+      "message": "Error loading script data."
+   },
+   "msgErrorLoadingDependency": {
+      "message": "Error loading dependencies."
+   },
+   "msgImported": {
+      "message": "$1 item(s) are imported."
+   },
+   "msgIncognitoChanges": {
+      "message": "Changes you make in the incognito mode also apply to your main profile."
+   },
+   "msgInstalled": {
+      "message": "Script installed."
+   },
+   "msgInvalidScript": {
+      "message": "Invalid script!"
+   },
+   "msgLoadingData": {
+      "message": "Loading script data..."
+   },
+   "msgLoadingDependency": {
+      "message": "Loading dependencies... ($1/$2)"
+   },
+   "msgMissingResources": {
+      "message": "Missing required resources."
+   },
+   "msgNamespaceConflict": {
+      "message": "A script like this is already installed or is still in the Recycle Bin.\nPlease either use a different @name and @namespace here or edit that script instead."
+   },
+   "msgNewVersion": {
+      "message": "New version found."
+   },
+   "msgNoUpdate": {
+      "message": "No update found."
+   },
+   "msgReinstallScripts": {
+      "message": "Please re-save or reinstall these script(s):"
+   },
+   "msgSameCode": {
+      "message": " (code is the same)"
+   },
+   "msgSavedBlacklist": {
+      "message": "Blacklist updated."
+   },
+   "msgSavedCustomCSS": {
+      "message": "Custom style is updated."
+   },
+   "msgSavedEditorOptions": {
+      "message": "Editor options are updated."
+   },
+   "msgSavedScriptTemplate": {
+      "message": "Custom script template is updated."
+   },
+   "msgScriptUpdated": {
+      "message": "Script [$1] is updated!"
+   },
+   "msgShowHide": {
+      "message": "Show/hide"
+   },
+   "msgSyncError": {
+      "message": "Sync error!"
+   },
+   "msgSyncInit": {
+      "message": "Initializing..."
+   },
+   "msgSyncInitError": {
+      "message": "Initializing error!"
+   },
+   "msgSyncNoAuthYet": {
+      "message": "Not authorized yet."
+   },
+   "msgSyncReady": {
+      "message": "Sync will start soon..."
+   },
+   "msgSyncing": {
+      "message": "Sync in progress..."
+   },
+   "msgUpdated": {
+      "message": "Script updated."
+   },
+   "msgUpdating": {
+      "message": "Updating..."
+   },
+   "noValues": {
+      "message": "No value is stored"
+   },
+   "optionEditorWindow": {
+      "message": "Open editor from popup in a new window"
+   },
+   "optionEditorWindowHint": {
+      "message": "Editor window position will be remembered only on resizing or saving"
+   },
+   "optionEditorWindowSimple": {
+      "message": "Hide omnibox"
+   },
+   "optionPopup": {
+      "message": "Popup menu and icon"
+   },
+   "optionPopupEnabledFirst": {
+      "message": "Enabled first"
+   },
+   "optionPopupGroupDisabled": {
+      "message": "Group disabled scripts"
+   },
+   "optionPopupHideDisabled": {
+      "message": "Hide disabled scripts"
+   },
+   "optionPopupShowDisabled": {
+      "message": "Show disabled scripts"
+   },
+   "optionShowEnabledFirst": {
+      "message": "Show enabled scripts first"
+   },
+   "optionUiTheme": {
+      "message": "UI theme: "
+   },
+   "optionUiThemeAuto": {
+      "message": "automatic"
+   },
+   "optionUiThemeDark": {
+      "message": "dark"
+   },
+   "optionUiThemeLight": {
+      "message": "light"
+   },
+   "optionUpdate": {
+      "message": "Update"
+   },
+   "searchCaseSensitive": {
+      "message": "Case sensitive"
+   },
+   "searchUseRegex": {
+      "message": "Use Regex"
+   },
+   "sideMenuAbout": {
+      "message": "About"
+   },
+   "sideMenuInstalled": {
+      "message": "Installed scripts"
+   },
+   "sideMenuSettings": {
+      "message": "Settings"
+   },
+   "titleBadgeColor": {
+      "message": "Normal badge color"
+   },
+   "titleBadgeColorBlocked": {
+      "message": "Badge color when the site is non-injectable (blacklisted or unsupported)"
+   },
+   "titleSearchHint": {
+      "message": "* \u003CEnter> key adds the text to autocomplete history\n* RegExp syntax is supported: /re/ and /re/flags"
+   },
+   "valueLabelKey": {
+      "message": "Key (string)"
+   },
+   "valueLabelValue": {
+      "message": "Value (serialized as JSON)"
+   },
+   "valueLabelValueAll": {
+      "message": "All values (serialized as JSON)"
+   },
+   "visitWebsite": {
+      "message": "Visit Website"
+   }
+}

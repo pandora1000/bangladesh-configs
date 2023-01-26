@@ -1,54 +1,21 @@
-2022/07/19-10:03:36.843 3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2022/07/19-10:03:36.844 3 Recovering log #3
-2022/07/19-10:03:36.844 3 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
-2022/07/19-10:04:41.557 3 Level-0 table #5: started
-2022/07/19-10:04:41.566 3 Level-0 table #5: 123724 bytes OK
-2022/07/19-10:04:41.568 3 Delete type=0 #3
-2022/07/19-10:11:24.410 3 Level-0 table #7: started
-2022/07/19-10:11:24.414 3 Level-0 table #7: 120348 bytes OK
-2022/07/19-10:11:24.417 3 Delete type=0 #4
-2022/07/19-10:22:17.721 3 Level-0 table #9: started
-2022/07/19-10:22:17.725 3 Level-0 table #9: 105589 bytes OK
-2022/07/19-10:22:17.727 3 Delete type=0 #6
-2022/07/19-10:42:51.941 17 Level-0 table #11: started
-2022/07/19-10:42:51.946 17 Level-0 table #11: 106938 bytes OK
-2022/07/19-10:42:51.949 17 Delete type=0 #8
-2022/07/19-10:45:06.554 17 Level-0 table #13: started
-2022/07/19-10:45:06.558 17 Level-0 table #13: 109281 bytes OK
-2022/07/19-10:45:06.561 17 Delete type=0 #10
-2022/07/19-10:45:41.557 17 Level-0 table #15: started
-2022/07/19-10:45:41.562 17 Level-0 table #15: 105125 bytes OK
-2022/07/19-10:45:41.565 17 Delete type=0 #12
-2022/07/19-10:45:41.566 17 Compacting 4@0 + 1@1 files
-2022/07/19-10:45:41.574 17 Generated table #16@0: 25 keys, 114099 bytes
-2022/07/19-10:45:41.574 17 Compacted 4@0 + 1@1 files => 114099 bytes
-2022/07/19-10:45:41.579 17 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/07/19-10:45:41.580 17 Delete type=2 #13
-2022/07/19-10:45:41.580 17 Delete type=2 #7
-2022/07/19-10:45:41.580 17 Delete type=2 #15
-2022/07/19-10:45:41.580 17 Delete type=2 #9
-2022/07/19-10:45:41.580 17 Delete type=2 #11
-2022/07/19-10:59:39.128 17 Level-0 table #18: started
-2022/07/19-10:59:39.133 17 Level-0 table #18: 43808 bytes OK
-2022/07/19-10:59:39.135 17 Delete type=0 #14
-2022/07/19-11:02:59.404 28 Level-0 table #20: started
-2022/07/19-11:02:59.407 28 Level-0 table #20: 92623 bytes OK
-2022/07/19-11:02:59.410 28 Delete type=0 #17
-2022/07/19-11:06:07.004 2d Level-0 table #22: started
-2022/07/19-11:06:07.007 2d Level-0 table #22: 51826 bytes OK
-2022/07/19-11:06:07.009 2d Delete type=0 #19
-2022/07/19-11:07:17.995 28 Level-0 table #24: started
-2022/07/19-11:07:17.999 28 Level-0 table #24: 49979 bytes OK
-2022/07/19-11:07:18.002 28 Delete type=0 #21
-2022/07/19-11:07:18.002 28 Compacting 4@0 + 1@1 files
-2022/07/19-11:07:18.008 28 Generated table #25@0: 55 keys, 184174 bytes
-2022/07/19-11:07:18.008 28 Compacted 4@0 + 1@1 files => 184174 bytes
-2022/07/19-11:07:18.010 28 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/07/19-11:07:18.011 28 Delete type=2 #20
-2022/07/19-11:07:18.011 28 Delete type=2 #24
-2022/07/19-11:07:18.011 28 Delete type=2 #18
-2022/07/19-11:07:18.011 28 Delete type=2 #16
-2022/07/19-11:07:18.011 28 Delete type=2 #22
-2022/07/19-11:43:48.490 28 Level-0 table #27: started
-2022/07/19-11:43:48.501 28 Level-0 table #27: 21177 bytes OK
-2022/07/19-11:43:48.503 28 Delete type=0 #23
+2023/01/26-02:13:06.011 3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/01/26-02:13:06.012 3 Recovering log #179
+2023/01/26-02:13:06.012 3 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000179.log 
+2023/01/26-02:16:02.273 8 Level-0 table #183: started
+2023/01/26-02:16:02.277 8 Level-0 table #183: 43603 bytes OK
+2023/01/26-02:16:02.280 8 Delete type=0 #179
+2023/01/26-02:16:02.280 8 Compacting 4@0 + 1@1 files
+2023/01/26-02:16:02.305 8 Generated table #184@0: 1016 keys, 1438054 bytes
+2023/01/26-02:16:02.305 8 Compacted 4@0 + 1@1 files => 1438054 bytes
+2023/01/26-02:16:02.307 8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/26-02:16:02.308 8 Delete type=2 #178
+2023/01/26-02:16:02.308 8 Delete type=2 #180
+2023/01/26-02:16:02.308 8 Delete type=2 #175
+2023/01/26-02:16:02.308 8 Delete type=2 #173
+2023/01/26-02:16:02.308 8 Delete type=2 #183
+2023/01/26-02:26:51.176 8 Level-0 table #186: started
+2023/01/26-02:26:51.182 8 Level-0 table #186: 119542 bytes OK
+2023/01/26-02:26:51.188 8 Delete type=0 #182
+2023/01/26-02:27:14.178 b Level-0 table #188: started
+2023/01/26-02:27:14.182 b Level-0 table #188: 46089 bytes OK
+2023/01/26-02:27:14.185 b Delete type=0 #185

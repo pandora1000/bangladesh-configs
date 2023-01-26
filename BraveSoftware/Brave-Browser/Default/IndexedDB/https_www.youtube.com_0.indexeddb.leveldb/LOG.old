@@ -1,2 +1,6 @@
-2022/07/19-09:52:13.253 c2d2 Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2022/07/19-09:52:13.258 c2d2 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/24-20:41:39.273 357f Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/24-20:41:39.306 357f Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/24-21:14:33.454 3b59 Level-0 table #5: started
+2023/01/24-21:14:33.462 3b59 Level-0 table #5: 517372 bytes OK
+2023/01/24-21:14:33.464 3b59 Delete type=0 #3
+2023/01/24-21:14:33.464 3b59 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

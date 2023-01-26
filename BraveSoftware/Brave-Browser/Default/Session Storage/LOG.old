@@ -1,3 +1,21 @@
-2022/07/19-09:51:04.579 3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2022/07/19-09:51:04.579 3 Recovering log #3
-2022/07/19-09:51:04.579 3 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000003.log 
+2023/01/26-02:12:58.615 3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/01/26-02:12:58.615 3 Recovering log #67
+2023/01/26-02:12:58.616 3 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000067.log 
+2023/01/26-02:13:02.086 3 Level-0 table #71: started
+2023/01/26-02:13:02.089 3 Level-0 table #71: 23206 bytes OK
+2023/01/26-02:13:02.091 3 Delete type=0 #67
+2023/01/26-02:13:04.460 5 Level-0 table #73: started
+2023/01/26-02:13:04.462 5 Level-0 table #73: 25345 bytes OK
+2023/01/26-02:13:04.465 5 Delete type=0 #70
+2023/01/26-02:13:04.465 5 Compacting 4@0 + 1@1 files
+2023/01/26-02:13:04.470 5 Generated table #74@0: 2343 keys, 47161 bytes
+2023/01/26-02:13:04.470 5 Compacted 4@0 + 1@1 files => 47161 bytes
+2023/01/26-02:13:04.472 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/26-02:13:04.473 5 Delete type=2 #63
+2023/01/26-02:13:04.473 5 Delete type=2 #73
+2023/01/26-02:13:04.473 5 Delete type=2 #68
+2023/01/26-02:13:04.473 5 Delete type=2 #71
+2023/01/26-02:13:04.473 5 Delete type=2 #65
+2023/01/26-02:13:04.901 3 Level-0 table #76: started
+2023/01/26-02:13:04.903 3 Level-0 table #76: 25350 bytes OK
+2023/01/26-02:13:04.910 3 Delete type=0 #72

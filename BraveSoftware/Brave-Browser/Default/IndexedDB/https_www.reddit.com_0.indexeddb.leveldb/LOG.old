@@ -1,0 +1,7 @@
+2023/01/21-16:15:07.369 2306 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/21-16:15:07.370 2306 Recovering log #3
+2023/01/21-16:15:07.370 2306 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2023/01/21-16:17:06.405 230e Level-0 table #5: started
+2023/01/21-16:17:06.407 230e Level-0 table #5: 3367 bytes OK
+2023/01/21-16:17:06.409 230e Delete type=0 #3
+2023/01/21-16:17:06.409 230e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

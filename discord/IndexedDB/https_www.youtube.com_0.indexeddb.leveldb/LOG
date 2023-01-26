@@ -1,3 +1,7 @@
-2022/05/28-19:26:48.874 59c Reusing MANIFEST /home/dawn/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/28-19:26:48.874 59c Recovering log #3
-2022/05/28-19:26:48.875 59c Reusing old log /home/dawn/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/10/20-00:28:23.232 30bc Reusing MANIFEST /home/dawn/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/20-00:28:23.232 30bc Recovering log #3
+2022/10/20-00:28:23.234 30bc Reusing old log /home/dawn/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/10/20-00:28:23.577 5747 Level-0 table #5: started
+2022/10/20-00:28:23.581 5747 Level-0 table #5: 81407 bytes OK
+2022/10/20-00:28:23.584 5747 Delete type=0 #3
+2022/10/20-00:28:23.584 5747 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

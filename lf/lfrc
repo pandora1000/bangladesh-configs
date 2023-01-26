@@ -93,6 +93,14 @@ cmd copyto ${{
 cmd setbg "$1"
 cmd bulkrename $vidir
 
+cmd dragon ${{
+ dragon -a -x $fx
+}}
+cmd dragon-stay -a $fx
+cmd dragon-individual $fx
+cmd cpdragon %cpdragon
+cmd mvdragon %mvdragon
+cmd dlfile %dlfile
 # Bindings
 map <c-f> $lf -remote "send $id select '$(fzf)'"
 map J $lf -remote "send $id cd $(sed -e 's/\s*#.*//' -e '/^$/d' -e 's/^\S*\s*//' ${XDG_CONFIG_HOME:-$HOME/.config}/shell/bm-dirs | fzf)"
@@ -127,5 +135,11 @@ map W $setsid -f $TERMINAL >/dev/null 2>&1
 
 map Y $printf "%s" "$fx" | xclip -selection clipboard
 
+map ^ dragon
+#map ds dragon-stay
+#map di dragon-individual
+#map dm mvdragon
+#map dc cpdragon
+#map dl dlfile
 # Source Bookmarks
 source "~/.config/lf/shortcutrc"

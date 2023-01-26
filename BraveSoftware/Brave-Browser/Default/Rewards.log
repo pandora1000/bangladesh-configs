@@ -1,49 +1,149 @@
-[19 Jul 2022, 9:38:50.2 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
-[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
-[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
-[19 Jul 2022, 9:40:25.8 am:ERROR:client.cc(544)] Failed to save client state
 --------------------------------------------------------------------------------
-[19 Jul 2022, 9:51:02.4 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
+[21 Jan 2023, 11:42:44.9 am:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 11:44:12.2 am:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[19 Jul 2022, 9:51:07.4 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 9:51:37.6 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 9:54:11.9 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:54:21.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:54:31.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:54:47.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:55:27.9 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:56:07.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:56:47.9 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
-[19 Jul 2022, 9:57:27.4 am:ERROR:server_publisher_fetcher.cc(95)] Error saving server publisher info record
+[21 Jan 2023, 2:54:14.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 2:54:14.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 3:12:28.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 3:49:00.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 3:49:39.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 3:56:56.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:07:33.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:10:31.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:18:02.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:35:26.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:41:50.8 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:42:52.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:44:06.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[21 Jan 2023, 4:44:27.9 pm:ERROR:publisher.cc(774)] Publisher info not found
 --------------------------------------------------------------------------------
-[19 Jul 2022, 10:03:37.0 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
-[19 Jul 2022, 10:03:37.0 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
-[19 Jul 2022, 10:03:37.2 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
-[19 Jul 2022, 10:03:37.2 am:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
-[19 Jul 2022, 10:03:39.2 am:ERROR:account.cc(265)] Failed to get issuers
-[19 Jul 2022, 10:03:42.3 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 10:03:46.6 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:03:59.8 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:04:05.0 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:04:11.2 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:04:38.7 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 10:06:52.4 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:07:40.6 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:09:33.3 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:40:11.5 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:50:18.4 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 10:50:43.6 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 10:52:16.7 am:ERROR:refill_unblinded_tokens.cc(194)] Failed to get signed tokens
-[19 Jul 2022, 10:59:34.5 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 10:59:34.5 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:10:44.4 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:10:44.4 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:15:56.5 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:22:13.3 am:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
-[19 Jul 2022, 11:22:13.3 am:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
-[19 Jul 2022, 11:22:13.3 am:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
-[19 Jul 2022, 11:22:16.3 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:25:09.0 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:29:29.5 am:ERROR:publisher.cc(774)] Publisher info not found
-[19 Jul 2022, 11:34:40.4 am:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 2:40:07.8 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 2:54:43.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:00:37.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:12:56.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:13:19.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:17:18.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:31:44.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:31:47.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:35:37.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:36:40.8 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:40:19.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 3:45:35.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 4:50:26.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 5:03:04.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 5:08:00.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 5:45:36.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 5:50:31.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 5:53:58.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 5:54:56.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:10:33.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:11:43.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:11:43.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:28:05.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 6:56:20.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[22 Jan 2023, 7:26:58.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[24 Jan 2023, 7:42:19.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:45:21.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:02.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:02.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:02.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:02.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:28.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:28.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:28.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:33.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:33.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:47:54.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:14.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:45.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:45.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:45.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:45.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:45.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:48:45.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:49:13.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:50:14.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:50:42.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:51:00.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:51:00.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:51:00.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:53:22.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:53:22.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:53:22.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:54:01.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:55:09.8 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:56:10.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:56:22.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:56:58.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:58:24.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:58:53.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 7:58:53.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:00:39.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:01:15.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:01:42.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:03:01.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:03:20.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:03:20.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:03:20.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:03:52.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:04:37.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:05.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:12.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:12.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:12.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:32.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:46.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:46.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:08:46.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:09:28.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:09:28.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:09:28.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:08.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:08.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:09.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:16.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:26.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:26.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:11:26.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:12:41.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:12:41.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:12:41.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:13:32.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:13:32.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:15:03.1 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:15:11.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:18:34.0 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:20:08.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:20:08.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:20:08.7 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:20:15.4 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:27:24.3 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:27:40.6 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 8:38:45.2 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 9:07:08.8 pm:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[24 Jan 2023, 11:10:02.9 pm:ERROR:publisher.cc(774)] Publisher info not found
+[24 Jan 2023, 11:11:12.5 pm:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[26 Jan 2023, 2:13:00.0 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[26 Jan 2023, 2:13:00.0 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[26 Jan 2023, 2:13:00.0 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[26 Jan 2023, 2:13:00.0 am:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[26 Jan 2023, 2:13:02.1 am:ERROR:account.cc(265)] Failed to get issuers
+--------------------------------------------------------------------------------
+[26 Jan 2023, 2:13:06.1 am:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[26 Jan 2023, 2:13:06.1 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[26 Jan 2023, 2:13:08.5 am:ERROR:account.cc(265)] Failed to get issuers
+[26 Jan 2023, 2:26:48.6 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 Jan 2023, 2:26:48.6 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 Jan 2023, 2:28:08.3 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 Jan 2023, 2:28:08.3 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 Jan 2023, 2:28:13.0 am:ERROR:publisher.cc(774)] Publisher info not found
+[26 Jan 2023, 2:28:13.0 am:ERROR:publisher.cc(774)] Publisher info not found

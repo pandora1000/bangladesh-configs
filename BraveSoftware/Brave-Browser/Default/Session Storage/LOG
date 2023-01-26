@@ -1,3 +1,6 @@
-2022/07/19-10:03:37.073 3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2022/07/19-10:03:37.073 3 Recovering log #3
-2022/07/19-10:03:37.074 3 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000003.log 
+2023/01/26-02:13:06.183 3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/01/26-02:13:06.184 3 Recovering log #75
+2023/01/26-02:13:06.184 3 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000075.log 
+2023/01/26-02:14:11.484 5 Level-0 table #79: started
+2023/01/26-02:14:11.488 5 Level-0 table #79: 26094 bytes OK
+2023/01/26-02:14:11.490 5 Delete type=0 #75
