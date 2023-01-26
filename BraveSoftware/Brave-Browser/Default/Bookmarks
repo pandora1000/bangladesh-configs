@@ -1,5 +1,5 @@
 {
-   "checksum": "1a33a097418209cfe21eda9bb8bf606f",
+   "checksum": "8419914ca4ff6621627c15f6a23d816e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -16,9 +16,16 @@
             "name": "Using \"bei\" sentences - Chinese Grammar Wiki",
             "type": "url",
             "url": "https://resources.allsetlearning.com/chinese/grammar/Using_%22bei%22_sentences#What_is_a_.E8.A2.AB_sentence.3F"
+         }, {
+            "date_added": "13319174619562827",
+            "guid": "efa26ae8-ee19-4bd7-96dd-e05a5e36a9d7",
+            "id": "8",
+            "name": "History",
+            "type": "url",
+            "url": "chrome://history/"
          } ],
          "date_added": "13318786051862657",
-         "date_modified": "13318788813523896",
+         "date_modified": "13319174619562827",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",

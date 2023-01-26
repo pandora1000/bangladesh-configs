@@ -7,3 +7,18 @@
 2023/01/26-02:28:08.598 2a65 Level-0 table #135: started
 2023/01/26-02:28:08.626 2a65 Level-0 table #135: 2038337 bytes OK
 2023/01/26-02:28:08.629 2a65 Delete type=0 #132
+2023/01/26-02:41:00.549 5cb4 Level-0 table #137: started
+2023/01/26-02:41:00.580 5cb4 Level-0 table #137: 2040650 bytes OK
+2023/01/26-02:41:00.582 5cb4 Delete type=0 #134
+2023/01/26-02:41:00.583 5cb4 Compacting 4@0 + 1@1 files
+2023/01/26-02:41:00.636 5cb4 Generated table #138@0: 15 keys, 2077867 bytes
+2023/01/26-02:41:00.636 5cb4 Compacted 4@0 + 1@1 files => 2077867 bytes
+2023/01/26-02:41:00.638 5cb4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/26-02:41:00.638 5cb4 Delete type=2 #137
+2023/01/26-02:41:00.638 5cb4 Delete type=2 #128
+2023/01/26-02:41:00.638 5cb4 Delete type=2 #135
+2023/01/26-02:41:00.638 5cb4 Delete type=2 #130
+2023/01/26-02:41:00.638 5cb4 Delete type=2 #133
+2023/01/26-02:41:20.486 41ab Level-0 table #140: started
+2023/01/26-02:41:20.537 41ab Level-0 table #140: 2067154 bytes OK
+2023/01/26-02:41:20.540 41ab Delete type=0 #136

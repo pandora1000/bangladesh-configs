@@ -1,0 +1,47 @@
+{
+   "checksum": "1a33a097418209cfe21eda9bb8bf606f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13318786671952197",
+            "guid": "c4643352-c99f-4eca-a263-be4c18f2d39c",
+            "id": "5",
+            "name": "《小时代1.0折纸时代 - Tiny Times 1.0》（郭敬明） - PDFCOFFEE.COM",
+            "type": "url",
+            "url": "https://pdfcoffee.com/10-tiny-times-10-pdf-free.html"
+         }, {
+            "date_added": "13318788813523896",
+            "guid": "2ebf3ec9-c687-443f-995e-0f5e6ca6c609",
+            "id": "6",
+            "name": "Using \"bei\" sentences - Chinese Grammar Wiki",
+            "type": "url",
+            "url": "https://resources.allsetlearning.com/chinese/grammar/Using_%22bei%22_sentences#What_is_a_.E8.A2.AB_sentence.3F"
+         } ],
+         "date_added": "13318786051862657",
+         "date_modified": "13318788813523896",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13318786051862658",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13318786051862661",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
